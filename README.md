@@ -1,3 +1,50 @@
+<!-- ================= HERO SECTION ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT+Architect;Real-Time+%7C+Industrial+%7C+Power+Electronics" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 👨‍💻 Amit Sutradhar  
+
+**Embedded Systems Engineer | Firmware Developer | IoT Architect**
+
+- 🎓 MS by Research — IIIT Hyderabad  
+- 🏆 Patent Granted — Intelligent Monitoring System  
+- ⚡ Specialized in Real-Time Embedded & Industrial Systems  
+- 🎯 Open to Embedded / Firmware Engineering Roles  
+
+---
+
+<!-- ================= STATS SECTION ================= -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-sutradhar&theme=github-dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true" width="100%"/>
+</p>
+
+---
+
+<!-- ================= BOTTOM METRICS ================= -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-sutradhar&theme=github_dark" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" width="24%"/>
+</p>
+
+---
+
 # 🔷 Technical Expertise
 
 <table width="100%" style="table-layout: fixed;">
@@ -129,3 +176,11 @@ PCB Mechanical Integration
 </tr>
 
 </table>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amit-sutradhar&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
