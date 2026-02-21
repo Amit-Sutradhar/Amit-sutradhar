@@ -55,17 +55,6 @@
 
 
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="40"/>
-    <img src="https://skillicons.dev/icons?i=linux,docker,ubuntu" height="40"/>
-    <img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb" height="40"/>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,matlab" height="40"/>
-  </marquee>
-</p>
-
----
-
 <!-- ================= SUMMARY CARDS ================= -->
 
 <p align="center">
