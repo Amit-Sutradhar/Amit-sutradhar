@@ -49,18 +49,21 @@
 
 
 
-
----
-
-<div align="center">
-
 # 🔷 Technical Expertise
 
-<table width="95%" style="table-layout:fixed; border-collapse:separate; border-spacing:18px;">
+<div align="right">
+
+<table width="95%" style="table-layout:fixed; border-collapse:separate; border-spacing:15px;">
 
 <tr>
 
-<td width="50%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+<!-- LEFT ANIMATION -->
+<td width="15%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="110"/>
+</td>
+
+<!-- BOX 1 -->
+<td width="42%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
 
 ### 🔹 Embedded Firmware & Microcontrollers
 
@@ -73,28 +76,25 @@
 </p>
 
 STM32 • ESP32 • ARM Cortex-M  
-PIC • MSP430  
-
-UART • SPI • I2C • CAN • DMA  
-FreeRTOS • Secure Boot • OTA  
+UART • SPI • I2C • CAN  
+FreeRTOS • OTA  
 
 </td>
 
-<td width="50%" valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
+<!-- BOX 2 -->
+<td width="43%" valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
 
 ### 🐧 Embedded Linux Systems
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="22"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,docker,ubuntu" height="22"/>
 </p>
 
-Yocto • Buildroot • Cross Compile  
+Yocto • Buildroot  
 Device Tree • Kernel Config  
-
-Shell • Systemd • Debugging  
+Systemd • Debugging  
 
 </td>
 
@@ -102,26 +102,27 @@ Shell • Systemd • Debugging
 
 <tr>
 
-<td width="50%" valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
+<td align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="110"/>
+</td>
+
+<td valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
 
 ### ⚡ PCB, Hardware & Power Electronics
 
 <p>
 <img src="https://img.icons8.com/color/48/kicad.png" height="22"/>
-<img src="https://img.icons8.com/color/48/circuit.png" height="22"/>
 <img src="https://img.icons8.com/color/48/oscilloscope.png" height="22"/>
 <img src="https://img.icons8.com/color/48/electronics.png" height="22"/>
 </p>
 
 2L • 4L • 6L PCB  
-Ground Planes • Signal Integrity  
-
-SMPS • Buck/Boost • Rectifiers  
+SMPS • Buck/Boost  
 EMI/EMC • Validation  
 
 </td>
 
-<td width="50%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+<td valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
 
 ### ☁️ IoT & Cloud Systems
 
@@ -129,14 +130,49 @@ EMI/EMC • Validation
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="22"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="22"/>
 </p>
 
-Modbus • RS485 • CAN  
-MQTT • Secure Telemetry  
+MQTT • RS485 • CAN  
+AWS IoT • REST APIs  
 
-AWS IoT • Azure IoT  
-REST APIs  
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="110"/>
+</td>
+
+<td valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+
+### 🛠 Development Environment
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22"/>
+</p>
+
+VS Code • CubeIDE  
+Git • CI/CD  
+
+</td>
+
+<td valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
+
+### 📊 Data & 3D Modeling
+
+<p>
+<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="22"/>
+<img src="https://skillicons.dev/icons?i=matlab" height="22"/>
+</p>
+
+Real-Time Dashboards  
+Fusion 360  
+Mechanical Integration  
 
 </td>
 
@@ -145,8 +181,6 @@ REST APIs
 </table>
 
 </div>
-
----
 
 ---
 
