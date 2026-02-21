@@ -73,31 +73,35 @@
 
 
 
-
-
-
-
 ---
 
 # 🎮 Technical Expertise
 
 <div align="center">
-
 <table width="100%" style="table-layout:fixed; border-collapse:collapse;">
 
 <tr>
-
-<td width="50%" valign="top" style="padding:50px 50px;">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
 ## 🍄 Embedded Firmware
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="30"/>
 <img src="https://img.icons8.com/color/48/stm32.png" height="30"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="30"/>
 </p>
 
-🔴 **Platforms:** STM32 • ESP32 • ARM Cortex-M  
-🔴 **Systems:** FreeRTOS • UART • SPI • CAN • Secure OTA  
+**Microcontrollers & SoCs**  
+STM32 (F0/F1/F4/H7) • ESP32 (N8R8/N16R2) • ARM Cortex-M • PIC • MSP430  
+
+**RTOS & System Design**  
+FreeRTOS • Task Scheduling • Memory Management • Bootloaders • Secure OTA  
+
+**Communication Protocols**  
+UART • SPI • I2C • CAN • DMA • RS485  
+
+**Engineering Focus**  
+Low-level driver development • Interrupt handling • Real-time optimization • Power management  
 
 </td>
 
@@ -107,17 +111,25 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="30"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="30"/>
 </p>
 
-🔵 **Build Systems:** Yocto • Buildroot • Cross Compile  
-🔵 **Kernel:** Device Tree • systemd • Debugging  
+**Build Systems & Toolchains**  
+Yocto • Buildroot • Cross Compilation • RootFS Customization  
+
+**Kernel & Drivers**  
+Device Tree • Kernel Configuration • Custom Driver Integration • GPIO/I2C/SPI  
+
+**System Services**  
+systemd • Shell Automation • Process Monitoring • Diagnostics  
+
+**Deployment & Containers**  
+Docker • Edge Deployment • Secure System Configuration  
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top" style="padding:30px 40px;">
 
 ## ⚡ PCB & Power Electronics
@@ -125,10 +137,20 @@
 <p>
 <img src="https://img.icons8.com/color/48/kicad.png" height="30"/>
 <img src="https://img.icons8.com/color/48/oscilloscope.png" height="30"/>
+<img src="https://img.icons8.com/color/48/electronics.png" height="30"/>
 </p>
 
-🔵 **Design:** 2L / 4L / 6L PCB • Signal Integrity  
-🔵 **Power:** SMPS • Buck/Boost • EMI/EMC Validation  
+**PCB Design Expertise**  
+2-Layer / 4-Layer / 6-Layer Designs • Ground Planes • Differential Routing  
+
+**Signal Integrity & EMI**  
+High-speed routing • EMI/EMC mitigation • Noise filtering  
+
+**Power Electronics**  
+SMPS • Buck/Boost Converters • Rectifiers • Thermal considerations  
+
+**Validation & Testing**  
+Oscilloscope debugging • Hardware validation • Reliability testing  
 
 </td>
 
@@ -137,28 +159,42 @@
 ## ☁️ IoT & Cloud Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb" height="30"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb,nodejs" height="30"/>
 </p>
 
-🔴 **Communication:** MQTT • RS485 • CAN  
-🔴 **Cloud & APIs:** AWS IoT • REST APIs • Dashboards  
+**Communication Layer**  
+MQTT • RS485 • CAN • Secure Telemetry • Modbus  
+
+**Cloud Platforms**  
+AWS IoT Core • Azure IoT Hub • Edge Device Management  
+
+**Backend & APIs**  
+REST APIs • Flask • Real-Time Dashboards • Data Logging  
+
+**Data Systems**  
+PostgreSQL • MongoDB • Time-Series Analytics  
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top" style="padding:30px 40px;">
 
 ## 🛠 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" height="30"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab" height="30"/>
+<img src="https://skillicons.dev/icons?i=cmake" height="30"/>
 </p>
 
-🔴 **IDE:** VS Code • CubeIDE • PlatformIO  
-🔴 **DevOps:** Git • GitHub Actions • CI/CD  
+**IDE & Tooling**  
+VS Code • STM32CubeIDE • Keil • PlatformIO  
+
+**Version Control & CI/CD**  
+Git • GitHub Actions • GitLab CI • Automated Builds  
+
+**Workflow**  
+Agile Development • Firmware Lifecycle Management • Code Review Practices  
 
 </td>
 
@@ -171,15 +207,19 @@
 <img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="30"/>
 </p>
 
-🔵 **Analytics:** Time-Series • Monitoring  
-🔵 **Design:** Fusion 360 • Mechanical Integration  
+**Data & Monitoring**  
+Real-Time Dashboards • Time-Series Processing • Sensor Data Analysis  
+
+**Mechanical & Integration**  
+Fusion 360 • 3D Enclosure Design • PCB-Mechanical Co-Design  
+
+**System-Level Thinking**  
+Hardware-Software Integration • Industrial Deployment  
 
 </td>
-
 </tr>
 
 </table>
-
 </div>
 
 ---
