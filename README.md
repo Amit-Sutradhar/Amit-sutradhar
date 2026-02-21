@@ -58,8 +58,8 @@
 <tr>
 
 <!-- LEFT ANIMATION -->
-<td width="1%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="7"/>
+<td width="1%" align="left" valign="middle">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
 </td>
 
 <!-- BOX 1 -->
