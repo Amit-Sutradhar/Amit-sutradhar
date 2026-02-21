@@ -1,46 +1,64 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Amit Sutradhar</h1>
+<h1 align="center">Amit Sutradhar</h1>
 <h3 align="center">
-Embedded Systems Engineer | IoT Innovator | Patent Holder <br>
-Building Intelligent Hardware + Cloud Connected Systems 🚀
+Embedded Systems Engineer | Power Electronics | IoT Architect | Patent Holder
 </h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+---
+
+## 👨‍💻 Professional Summary
+
+🔹 Embedded Systems Engineer working on real-world industrial hardware  
+🔹 MS by Research – IIIT Hyderabad  
+🔹 Patent Granted – Intelligent IoT Monitoring System  
+🔹 Specializing in Embedded + Power + Cloud Integrated Systems  
+🔹 Actively looking for strong Embedded Systems Roles  
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 Core Technical Skills (Embedded Focused)
 
-- 🔭 Currently working as an **Embedded Systems Engineer**
-- 🎓 MS by Research @ **IIIT Hyderabad**
-- 📜 Patent Granted from IIIT Hyderabad
-- 💡 Founder Mindset | Working on Climate-Tech & IoT Solutions
-- 🌱 Exploring Advanced Embedded Design, Power Electronics & Edge AI
-- ☁️ IoT + Cloud (AWS + ESP32 + Real-Time Monitoring Systems)
-- 🎯 Actively looking for **Good Embedded Systems Roles**
-- ⚡ Fun Fact: I don’t just build circuits… I build ecosystems 🌍
+### 🔹 Embedded Systems
+- STM32 / ESP32 / ARM Cortex
+- Bare Metal Programming
+- FreeRTOS
+- Embedded C / C++
+- Bootloaders & Firmware Architecture
+- Peripheral Drivers (UART, SPI, I2C, CAN)
+
+### 🔹 Linux & RTOS
+- Embedded Linux
+- Device Driver Basics
+- Kernel Configuration
+- Yocto Basics
+- Buildroot
+
+### 🔹 PCB & Hardware Design
+- KiCad PCB Design
+- Multi-layer PCB
+- High Current Layout Techniques
+- EMI/EMC Considerations
+- SMPS Design
+- Analog + Digital Mixed Layout
+
+### 🔹 Power Electronics
+- 12-Pulse SCR Rectifier
+- High Power AC-DC Systems
+- Harmonic Mitigation
+- THD Optimization
+- Industrial Power Monitoring
+
+### 🔹 IoT & Cloud
+- AWS IoT
+- MQTT
+- Real-time Dashboard (Flask / React)
+- GSM / 4G Telemetry
+- Remote Monitoring Systems
 
 ---
 
-### 🚀 Tech Stack
-
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=tokyonight" />
@@ -49,27 +67,22 @@ Building Intelligent Hardware + Cloud Connected Systems 🚀
 
 ---
 
-### 🐍 Contribution Snake Game
+## 🐍 Contribution Snake (Live Animated)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amit-sutradhar/amit-sutradhar/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/amit-sutradhar/amit-sutradhar/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## ⚡ Engineering Philosophy
 
-<p align="left">
-<a href="https://linkedin.com/in/amit-sutradhar">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="mailto:amitsutradhar253@gmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="40"/>
-</a>
-</p>
+> “Design it robust. Make it efficient. Deploy it globally.”
 
 ---
 
-<h3 align="center">
-⚡ “Engineering the future, one PCB at a time.” ⚡
-</h3>
+## 🌐 Connect
+
+- 📧 amitsutradhar253@gmail.com  
+- 💼 LinkedIn  
+- 🌍 GitHub Portfolio  
