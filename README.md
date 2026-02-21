@@ -27,6 +27,17 @@
 
 ---
 
+
+<!-- ================= SUMMARY CARDS ================= -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-sutradhar&theme=github_dark" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" width="24%"/>
+</p>
+
+
 <!-- ================= STATS SECTION ================= -->
 
 <p align="center">
@@ -38,16 +49,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true" width="100%"/>
 </p>
 
----
 
-<!-- ================= SUMMARY CARDS ================= -->
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-sutradhar&theme=github_dark" width="24%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" width="24%"/>
-</p>
 
 ---
 
