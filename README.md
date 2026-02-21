@@ -39,81 +39,138 @@
 
 
 
-
-<!-- Animated Section Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=0A66C2&center=true&vCenter=true&width=600&lines=Technical+Stack;Embedded+Systems+%7C+IoT+%7C+Hardware+Engineering" />
-</p>
-
 ---
 
 # ⚙️ Technical Stack
 
 ---
 
-## 🔷 Embedded & Firmware
+## 🔷 Embedded & Firmware Engineering
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,git" />
-</p>
+<table>
+<tr>
+<td width="35%">
 
-Embedded C • C++ • STM32 • ESP32 • ARM Cortex-M  
-FreeRTOS • Bootloader Development  
-UART • SPI • I2C • CAN • DMA • ADC • Timers  
-Low Power Optimization • Interrupt Handling  
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,git" /><br><br>
+<img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARM_Cortex-M-6A1B9A?style=for-the-badge"/>
+
+</td>
+<td width="65%">
+
+**Embedded C / C++**  
+Designing optimized firmware for microcontrollers with strong focus on memory efficiency and deterministic execution.
+
+**RTOS (FreeRTOS)**  
+Task scheduling, inter-task communication, semaphores, queues, timing control and real-time performance optimization.
+
+**Microcontrollers (STM32 / ESP32 / ARM Cortex-M)**  
+Peripheral driver development (UART, SPI, I2C, CAN, DMA, ADC, Timers), interrupt handling and low-power system design.
+
+**Bootloader & Firmware Architecture**  
+Secure firmware updates, modular firmware design and scalable embedded system architecture.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔷 Embedded Linux
+## 🔷 Embedded Linux Systems
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
+<table>
+<tr>
+<td width="35%">
 
-Linux Kernel Basics • Yocto • Buildroot  
-Cross Compilation • Device Tree  
-Systemd • Kernel Configuration  
-Shell Scripting • Driver Fundamentals  
+<img src="https://skillicons.dev/icons?i=linux,bash" /><br><br>
+<img src="https://img.shields.io/badge/Yocto_Project-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Buildroot-3E8E41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Device_Tree-455A64?style=for-the-badge"/>
+
+</td>
+<td width="65%">
+
+**Embedded Linux Development**  
+Kernel configuration, system bring-up and user-space application integration.
+
+**Yocto & Buildroot**  
+Custom Linux image generation, cross-compilation toolchains and package configuration.
+
+**Driver Fundamentals**  
+Understanding of device tree, systemd services and hardware abstraction.
+
+**Shell & Automation**  
+Bash scripting for automation, deployment and embedded system diagnostics.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔷 PCB & Hardware Design
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
+<table>
+<tr>
+<td width="35%">
 
-KiCad • Multi-layer PCB Design  
-High Current Layout Techniques  
-SMPS Design • DC-DC Converters  
-EMI / EMC Considerations  
-Analog + Digital Mixed Signal Design  
-Signal Integrity • Grounding Strategy  
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MultiLayer_PCB-1565C0?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/SMPS_Design-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMI_EMC-455A64?style=for-the-badge"/>
+
+</td>
+<td width="65%">
+
+**PCB Design (KiCad)**  
+Multi-layer PCB layout, high-current routing, grounding strategy and signal integrity considerations.
+
+**Power Electronics Integration**  
+SMPS design, DC-DC converters and industrial power monitoring systems.
+
+**Mixed Signal Systems**  
+Analog + digital interfacing, noise mitigation and EMI/EMC optimization.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔷 IoT & Industrial Systems
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,react,flask" />
-</p>
+<table>
+<tr>
+<td width="35%">
 
-AWS IoT • MQTT • HTTP/REST APIs  
-Modbus RTU • RS485 • CAN Bus  
-GSM / 4G Telemetry  
-Cloud Dashboards • Real-Time Monitoring  
-Edge Data Processing  
+<img src="https://skillicons.dev/icons?i=aws,react,flask" /><br><br>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Modbus_RTU-00695C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RS485-004D40?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAN_Bus-37474F?style=for-the-badge"/>
 
----
+</td>
+<td width="65%">
 
-## 🔷 Tools & Engineering Workflow
+**Industrial Communication Protocols**  
+Modbus RTU, RS485 and CAN bus implementation for real-time industrial systems.
 
-Git • GitHub Actions  
-Oscilloscope • Logic Analyzer  
-Power Analyzer  
-JTAG Debugging  
-Firmware Version Control  
-Hardware Bring-Up  
+**Cloud-Connected IoT**  
+AWS IoT integration, MQTT communication and secure telemetry systems.
+
+**Real-Time Dashboards**  
+Data visualization using Flask & React for monitoring embedded deployments.
+
+**Edge Processing**  
+On-device filtering, preprocessing and optimized cloud data transmission.
+
+</td>
+</tr>
+</table>
+
+
 
 
 
