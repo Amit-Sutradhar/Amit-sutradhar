@@ -38,137 +38,134 @@
 
 
 
-
 ---
 
 # ⚙️ Technical Stack
 
 ---
 
-## 🔷 Embedded & Firmware Engineering
+## 🔷 Embedded Firmware & Microcontrollers
 
-<table>
-<tr>
-<td width="35%">
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,git" /><br><br>
+<p>
+<img src="https://img.shields.io/badge/STM32_F0/F1/F4/H7-03234B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32_N8R8/N16R2-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARM_Cortex_M0/M3/M4/M7-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino_UNO/MEGA/Nano-00979D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microchip_PIC-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TI_MSP430-283593?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ARM_Cortex-M-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bare_Metal-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bootloader_Design-37474F?style=for-the-badge"/>
+</p>
 
-</td>
-<td width="65%">
-
-**Embedded C / C++**  
-Designing optimized firmware for microcontrollers with strong focus on memory efficiency and deterministic execution.
-
-**RTOS (FreeRTOS)**  
-Task scheduling, inter-task communication, semaphores, queues, timing control and real-time performance optimization.
-
-**Microcontrollers (STM32 / ESP32 / ARM Cortex-M)**  
-Peripheral driver development (UART, SPI, I2C, CAN, DMA, ADC, Timers), interrupt handling and low-power system design.
-
-**Bootloader & Firmware Architecture**  
-Secure firmware updates, modular firmware design and scalable embedded system architecture.
-
-</td>
-</tr>
-</table>
+• Embedded C / C++ firmware development  
+• Peripheral drivers (UART, SPI, I2C, CAN, DMA, ADC, PWM, Timers)  
+• Interrupt handling & low power optimization  
+• RTOS task scheduling & memory management  
+• Firmware architecture & modular system design  
 
 ---
 
-## 🔷 Embedded Linux Systems
+## 🔷 Embedded Linux & System Programming
 
-<table>
-<tr>
-<td width="35%">
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=linux,bash" /><br><br>
+<p>
 <img src="https://img.shields.io/badge/Yocto_Project-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Buildroot-3E8E41?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Device_Tree-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Systemd-263238?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross_Compilation-546E7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Driver_Fundamentals-1B5E20?style=for-the-badge"/>
+</p>
 
-</td>
-<td width="65%">
-
-**Embedded Linux Development**  
-Kernel configuration, system bring-up and user-space application integration.
-
-**Yocto & Buildroot**  
-Custom Linux image generation, cross-compilation toolchains and package configuration.
-
-**Driver Fundamentals**  
-Understanding of device tree, systemd services and hardware abstraction.
-
-**Shell & Automation**  
-Bash scripting for automation, deployment and embedded system diagnostics.
-
-</td>
-</tr>
-</table>
+• Custom Linux image generation  
+• Kernel configuration & board bring-up  
+• Shell scripting & system automation  
+• Hardware abstraction & user-space integration  
 
 ---
 
-## 🔷 PCB & Hardware Design
+## 🔷 PCB, Hardware & Power Electronics
 
-<table>
-<tr>
-<td width="35%">
-
+<p>
 <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MultiLayer_PCB-1565C0?style=for-the-badge"/><br><br>
-<img src="https://img.shields.io/badge/SMPS_Design-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Altium-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MultiLayer_PCB-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SMPS-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DC_DC_Converters-E65100?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EMI_EMC-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Signal_Integrity-00796B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TI_Power_ICs-283593?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analog_Devices-004D40?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microchip_Drivers-1A237E?style=for-the-badge"/>
+</p>
 
-</td>
-<td width="65%">
-
-**PCB Design (KiCad)**  
-Multi-layer PCB layout, high-current routing, grounding strategy and signal integrity considerations.
-
-**Power Electronics Integration**  
-SMPS design, DC-DC converters and industrial power monitoring systems.
-
-**Mixed Signal Systems**  
-Analog + digital interfacing, noise mitigation and EMI/EMC optimization.
-
-</td>
-</tr>
-</table>
+• High current PCB layout  
+• Mixed signal design (Analog + Digital)  
+• Grounding strategy & noise reduction  
+• Power monitoring & industrial rectifier systems  
+• Debug tools: Oscilloscope, Logic Analyzer  
 
 ---
 
-## 🔷 IoT & Industrial Systems
+## 🔷 IoT, Cloud & Industrial Communication
 
-<table>
-<tr>
-<td width="35%">
+<p>
+<img src="https://skillicons.dev/icons?i=aws,react,flask,nodejs" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,react,flask" /><br><br>
+<p>
+<img src="https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ThingSpeak_MATLAB-FF9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Modbus_RTU-00695C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RS485-004D40?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CAN_Bus-37474F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSM_4G_Telemetry-546E7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Edge_Computing-004D40?style=for-the-badge"/>
+</p>
 
-</td>
-<td width="65%">
+• Secure telemetry & remote device monitoring  
+• Industrial protocol implementation  
+• Real-time dashboards & cloud integration  
+• IoT device fleet management  
 
-**Industrial Communication Protocols**  
-Modbus RTU, RS485 and CAN bus implementation for real-time industrial systems.
+---
 
-**Cloud-Connected IoT**  
-AWS IoT integration, MQTT communication and secure telemetry systems.
+## 🔷 Development Tools & IDEs
 
-**Real-Time Dashboards**  
-Data visualization using Flask & React for monitoring embedded deployments.
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda" />
+</p>
 
-**Edge Processing**  
-On-device filtering, preprocessing and optimized cloud data transmission.
+<p>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keil_uVision-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PlatformIO-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Conda_Environment-43A047?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge"/>
+</p>
 
-</td>
-</tr>
-</table>
+• Multi-environment firmware & Python development  
+• Cloud deployment workflows  
+• Version control & CI/CD integration  
+
+---
+
+
+
+
 
 
 
