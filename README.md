@@ -1,48 +1,46 @@
-<!-- ================= SUPER MARIO HEADER ================= -->
+<!-- ================= TOP ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</p>
+
+<!-- ================= HERO TEXT ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=850&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT+Architect;Real-Time+%7C+Industrial+%7C+Power+Electronics" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&color=FF0000&center=true&vCenter=true&width=900&lines=🎮+SUPER+AMIT+TECH+WORLD;Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT+Architect;Real-Time+%7C+Industrial+%7C+Power+Electronics" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=👀+Players+Visited&color=FF0000&style=flat" />
-</p>
-
----
-
-# 🍄 PLAYER PROFILE
-
-## 👨‍💻 AMIT SUTRADHAR  
-
-🎓 MS by Research – IIIT Hyderabad  
-🏆 5x Patent Granted Engineer  
-⚡ Real-Time Embedded Systems Specialist  
-🎯 Open to Firmware / Embedded Engineering Roles  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif" width="120"/>
+  <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 🪙 POWER-UPS & TECH STACK
+## 👨‍💻 Amit Sutradhar  
+
+**Embedded Systems Engineer | Firmware Developer | IoT Architect**
+
+- 🎓 MS by Research IIIT Hyderabad  
+- 🏆 Five Patent Granted Holder 
+- ⚡ Specialized in Real-Time Embedded & Industrial Systems  
+- 🎯 Open to Embedded / Firmware Engineering Roles  
+
+---
+
+<!-- ================= MOVING TECHNOLOGY LOGOS ================= -->
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="45"/>
-    <img src="https://skillicons.dev/icons?i=linux,docker,ubuntu" height="45"/>
-    <img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb,nodejs" height="45"/>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,matlab" height="45"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,docker,ubuntu" height="40"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,matlab" height="40"/>
   </marquee>
 </p>
 
 ---
 
-# 📊 PLAYER STATS
+<!-- ================= SUMMARY CARDS ================= -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
@@ -51,8 +49,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" width="24%"/>
 </p>
 
+---
+
+<!-- ================= STATS SECTION ================= -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-sutradhar&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
@@ -62,152 +64,162 @@
 
 ---
 
-# 🎮 SUPER SKILL WORLDS
+
+
+
+
+
+
+
+
+
+---
+
+# 🎮 Technical Expertise
 
 <div align="center">
-
-<table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:25px;">
+<table width="100%" style="table-layout:fixed; border-collapse:collapse;">
 
 <tr>
+<td width="50%" valign="top" style="padding:30px 40px;">
 
-<td width="50%" valign="top" style="background:#111; border:4px solid #FF0000; border-radius:20px; padding:25px;">
+## 🍄 Embedded Firmware
 
-<h2 align="center">🍄 WORLD 1: Embedded Firmware</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="35"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="35"/>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="30"/>
+<img src="https://img.icons8.com/color/48/stm32.png" height="30"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="30"/>
 </p>
 
-🧱 **Microcontroller Kingdom**  
-STM32 • ESP32 • ARM Cortex-M • PIC • MSP430  
+**Microcontrollers & SoCs**  
+STM32 (F0/F1/F4/H7) • ESP32 (N8R8/N16R2) • ARM Cortex-M • PIC • MSP430  
 
-⭐ **RTOS Power Mode**  
-FreeRTOS • Bootloaders • Secure OTA  
+**RTOS & System Design**  
+FreeRTOS • Task Scheduling • Memory Management • Bootloaders • Secure OTA  
 
-⚡ **Battle Protocols**  
+**Communication Protocols**  
 UART • SPI • I2C • CAN • DMA • RS485  
 
-🔥 **Boss Ability**  
-Low-Level Drivers • Interrupt Mastery • Real-Time Optimization  
+**Engineering Focus**  
+Low-level driver development • Interrupt handling • Real-time optimization • Power management  
 
 </td>
 
-<td width="50%" valign="top" style="background:#111; border:4px solid #00FF00; border-radius:20px; padding:25px;">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
-<h2 align="center">🐢 WORLD 2: Embedded Linux</h2>
+## 🐧 Embedded Linux
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="35"/>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="30"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="30"/>
 </p>
 
-🟢 **Build Arena**  
-Yocto • Buildroot • Cross Compilation  
+**Build Systems & Toolchains**  
+Yocto • Buildroot • Cross Compilation • RootFS Customization  
 
-🧩 **Kernel Level Access**  
-Device Tree • Driver Development • GPIO/I2C/SPI  
+**Kernel & Drivers**  
+Device Tree • Kernel Configuration • Custom Driver Integration • GPIO/I2C/SPI  
 
-🚀 **Deployment Mode**  
-Docker • Secure Edge Systems  
+**System Services**  
+systemd • Shell Automation • Process Monitoring • Diagnostics  
+
+**Deployment & Containers**  
+Docker • Edge Deployment • Secure System Configuration  
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%" valign="top" style="padding:30px 40px;">
 
-<td width="50%" valign="top" style="background:#111; border:4px solid #FFD700; border-radius:20px; padding:25px;">
+## ⚡ PCB & Power Electronics
 
-<h2 align="center">⚡ WORLD 3: PCB & Power Zone</h2>
-
-<p align="center">
-<img src="https://img.icons8.com/color/48/kicad.png" height="35"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="35"/>
+<p>
+<img src="https://img.icons8.com/color/48/kicad.png" height="30"/>
+<img src="https://img.icons8.com/color/48/oscilloscope.png" height="30"/>
+<img src="https://img.icons8.com/color/48/electronics.png" height="30"/>
 </p>
 
-🟨 **PCB Crafting**  
-2/4/6 Layer • Ground Planes • Differential Routing  
+**PCB Design Expertise**  
+2-Layer / 4-Layer / 6-Layer Designs • Ground Planes • Differential Routing  
 
-🔥 **Signal Integrity Shield**  
-EMI/EMC • Noise Filtering • High-Speed Routing  
+**Signal Integrity & EMI**  
+High-speed routing • EMI/EMC mitigation • Noise filtering  
 
-⚙ **Power Engineering**  
-SMPS • Buck/Boost • Rectifiers • Thermal Design  
+**Power Electronics**  
+SMPS • Buck/Boost Converters • Rectifiers • Thermal considerations  
+
+**Validation & Testing**  
+Oscilloscope debugging • Hardware validation • Reliability testing  
 
 </td>
 
-<td width="50%" valign="top" style="background:#111; border:4px solid #00C2FF; border-radius:20px; padding:25px;">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
-<h2 align="center">☁️ WORLD 4: IoT Cloud Castle</h2>
+## ☁️ IoT & Cloud Systems
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb,nodejs" height="35"/>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb,nodejs" height="30"/>
 </p>
 
-📡 **Communication Realm**  
-MQTT • CAN • RS485 • Modbus  
+**Communication Layer**  
+MQTT • RS485 • CAN • Secure Telemetry • Modbus  
 
-🌩 **Cloud Control Tower**  
-AWS IoT • Azure IoT Hub  
+**Cloud Platforms**  
+AWS IoT Core • Azure IoT Hub • Edge Device Management  
 
-📊 **Data Intelligence Engine**  
-Dashboards • APIs • Time-Series Analytics  
+**Backend & APIs**  
+REST APIs • Flask • Real-Time Dashboards • Data Logging  
+
+**Data Systems**  
+PostgreSQL • MongoDB • Time-Series Analytics  
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%" valign="top" style="padding:30px 40px;">
 
-<td width="50%" valign="top" style="background:#111; border:4px solid #FF66CC; border-radius:20px; padding:25px;">
+## 🛠 Development Tools
 
-<h2 align="center">🛠 WORLD 5: Dev Tools Dungeon</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,cmake" height="35"/>
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab" height="30"/>
+<img src="https://skillicons.dev/icons?i=cmake" height="30"/>
 </p>
 
-🧠 VS Code • STM32CubeIDE • Keil • PlatformIO  
-🔄 Git • CI/CD • Automated Builds  
+**IDE & Tooling**  
+VS Code • STM32CubeIDE • Keil • PlatformIO  
+
+**Version Control & CI/CD**  
+Git • GitHub Actions • GitLab CI • Automated Builds  
+
+**Workflow**  
+Agile Development • Firmware Lifecycle Management • Code Review Practices  
 
 </td>
 
-<td width="50%" valign="top" style="background:#111; border:4px solid #FFFFFF; border-radius:20px; padding:25px;">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
-<h2 align="center">📊 WORLD 6: Data & 3D Lab</h2>
+## 📊 Data & 3D Modeling
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=matlab" height="35"/>
-<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="35"/>
+<p>
+<img src="https://skillicons.dev/icons?i=matlab" height="30"/>
+<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="30"/>
 </p>
 
-📈 Sensor Analytics • Real-Time Monitoring  
-🧱 Fusion 360 • Enclosure Design  
-🎮 Full Hardware-Software Integration  
+**Data & Monitoring**  
+Real-Time Dashboards • Time-Series Processing • Sensor Data Analysis  
+
+**Mechanical & Integration**  
+Fusion 360 • 3D Enclosure Design • PCB-Mechanical Co-Design  
+
+**System-Level Thinking**  
+Hardware-Software Integration • Industrial Deployment  
 
 </td>
-
 </tr>
 
 </table>
-
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/5t9wJjyHAOxvnxcPNk/giphy.gif" width="200"/>
-</p>
-
-# 🏆 FINAL BOSS STATUS
-
-⭐ Firmware Architect  
-⭐ PCB & Power Engineer  
-⭐ IoT System Designer  
-⭐ Industrial Embedded Specialist  
-
----
-
-<p align="center">
-  🎮 GAME OVER? NO. NEXT LEVEL LOADING...
-</p>
