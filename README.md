@@ -50,14 +50,17 @@
 
 
 
+---
+
+<div align="center">
 
 # 🔷 Technical Expertise
 
-<table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:15px;">
+<table width="95%" style="table-layout:fixed; border-collapse:separate; border-spacing:18px;">
 
 <tr>
 
-<td width="50%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:10px;">
+<td width="50%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
 
 ### 🔹 Embedded Firmware & Microcontrollers
 
@@ -67,7 +70,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22"/>
 <img src="https://skillicons.dev/icons?i=arduino" height="22"/>
 <img src="https://img.icons8.com/color/48/stm32.png" height="22"/>
-<img src="https://skillicons.dev/icons?i=embedded" height="22"/>
 </p>
 
 STM32 • ESP32 • ARM Cortex-M  
@@ -78,7 +80,7 @@ FreeRTOS • Secure Boot • OTA
 
 </td>
 
-<td width="50%" valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:10px;">
+<td width="50%" valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
 
 ### 🐧 Embedded Linux Systems
 
@@ -87,7 +89,6 @@ FreeRTOS • Secure Boot • OTA
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="22"/>
 <img src="https://skillicons.dev/icons?i=raspberrypi" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22"/>
-<img src="https://skillicons.dev/icons?i=ubuntu" height="22"/>
 </p>
 
 Yocto • Buildroot • Cross Compile  
@@ -101,7 +102,7 @@ Shell • Systemd • Debugging
 
 <tr>
 
-<td width="50%" valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:10px;">
+<td width="50%" valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
 
 ### ⚡ PCB, Hardware & Power Electronics
 
@@ -110,7 +111,6 @@ Shell • Systemd • Debugging
 <img src="https://img.icons8.com/color/48/circuit.png" height="22"/>
 <img src="https://img.icons8.com/color/48/oscilloscope.png" height="22"/>
 <img src="https://img.icons8.com/color/48/electronics.png" height="22"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="22"/>
 </p>
 
 2L • 4L • 6L PCB  
@@ -121,7 +121,7 @@ EMI/EMC • Validation
 
 </td>
 
-<td width="50%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:10px;">
+<td width="50%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
 
 ### ☁️ IoT & Cloud Systems
 
@@ -130,7 +130,6 @@ EMI/EMC • Validation
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="22"/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="22"/>
 </p>
 
 Modbus • RS485 • CAN  
@@ -143,49 +142,11 @@ REST APIs
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:10px;">
-
-### 🛠 Development Environment
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="22"/>
-</p>
-
-VS Code • CubeIDE • Keil  
-PlatformIO • Arduino IDE  
-
-Git • GitHub Actions • CI/CD  
-
-</td>
-
-<td width="50%" valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:10px;">
-
-### 📊 Data & 3D Modeling
-
-<p>
-<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="22"/>
-<img src="https://img.icons8.com/color/48/3d.png" height="22"/>
-<img src="https://img.icons8.com/color/48/combo-chart.png" height="22"/>
-<img src="https://skillicons.dev/icons?i=matlab" height="22"/>
-</p>
-
-Real-Time Dashboards  
-Time-Series Analytics  
-
-Fusion 360 • Shapr3D  
-Mechanical Integration  
-
-</td>
-
-</tr>
-
 </table>
+
+</div>
+
+---
 
 ---
 
