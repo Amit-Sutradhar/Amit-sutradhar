@@ -10,17 +10,6 @@
 
 ---
 
-## 👨‍💻 Amit Sutradhar  
-
-**Embedded Systems Engineer | Firmware Developer | IoT Architect**
-
-- 🎓 MS by Research — IIIT Hyderabad  
-- 🏆 Patent Granted — Intelligent Monitoring System  
-- ⚡ Specialized in Real-Time Embedded & Industrial Systems  
-- 🎯 Open to Embedded / Firmware Engineering Roles  
-
----
-
 <!-- ================= STATS SECTION ================= -->
 
 <p align="center">
@@ -42,6 +31,21 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-sutradhar&theme=github_dark" width="24%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" width="24%"/>
 </p>
+
+---
+
+
+
+
+
+## 👨‍💻 Amit Sutradhar  
+
+**Embedded Systems Engineer | Firmware Developer | IoT Architect**
+
+- 🎓 MS by Research — IIIT Hyderabad  
+- 🏆 Patent Granted — Intelligent Monitoring System  
+- ⚡ Specialized in Real-Time Embedded & Industrial Systems  
+- 🎯 Open to Embedded / Firmware Engineering Roles  
 
 ---
 
