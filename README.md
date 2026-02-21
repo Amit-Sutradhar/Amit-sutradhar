@@ -54,7 +54,7 @@
 <!-- ================= STATS SECTION ================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-sutradhar&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
