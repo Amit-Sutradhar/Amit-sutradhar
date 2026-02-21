@@ -27,6 +27,18 @@
 
 ---
 
+<!-- ================= MOVING TECHNOLOGY LOGOS ================= -->
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,docker,ubuntu" height="40"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,matlab" height="40"/>
+  </marquee>
+</p>
+
+---
 
 <!-- ================= SUMMARY CARDS ================= -->
 
@@ -37,6 +49,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" width="24%"/>
 </p>
 
+---
 
 <!-- ================= STATS SECTION ================= -->
 
@@ -49,37 +62,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true" width="100%"/>
 </p>
 
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 # 🎮 Technical Expertise
 
-<table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:30px 25px;">
+<table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:35px 30px;">
 
 <tr>
 
@@ -88,12 +75,12 @@
 ## 🍄 Embedded Firmware
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="28"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="28"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="30"/>
+<img src="https://img.icons8.com/color/48/stm32.png" height="30"/>
 </p>
 
 🔴 **Platforms:** STM32 • ESP32 • ARM Cortex-M  
-🔴 **Core Skills:** FreeRTOS • UART • SPI • CAN  
+🔴 **Systems:** FreeRTOS • UART • SPI • CAN • Secure OTA  
 
 </td>
 
@@ -102,11 +89,11 @@
 ## 🐧 Embedded Linux
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="28"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="30"/>
 </p>
 
-🔵 **Build Systems:** Yocto • Buildroot  
-🔵 **Kernel & Debug:** Device Tree • systemd  
+🔵 **Build Systems:** Yocto • Buildroot • Cross Compile  
+🔵 **Kernel:** Device Tree • systemd • Debugging  
 
 </td>
 
@@ -119,25 +106,25 @@
 ## ⚡ PCB & Power Electronics
 
 <p>
-<img src="https://img.icons8.com/color/48/kicad.png" height="28"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="28"/>
+<img src="https://img.icons8.com/color/48/kicad.png" height="30"/>
+<img src="https://img.icons8.com/color/48/oscilloscope.png" height="30"/>
 </p>
 
-🔵 **Design:** 2L • 4L • 6L PCB • Signal Integrity  
-🔵 **Power:** SMPS • Buck/Boost • EMI/EMC  
+🔵 **Design:** 2L / 4L / 6L PCB • Signal Integrity  
+🔵 **Power:** SMPS • Buck/Boost • EMI/EMC Validation  
 
 </td>
 
 <td width="50%" valign="top">
 
-## ☁️ IoT & Cloud
+## ☁️ IoT & Cloud Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb" height="28"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb" height="30"/>
 </p>
 
 🔴 **Communication:** MQTT • RS485 • CAN  
-🔴 **Backend:** REST APIs • Real-Time Dashboards  
+🔴 **Cloud & APIs:** AWS IoT • REST APIs • Dashboards  
 
 </td>
 
@@ -150,11 +137,11 @@
 ## 🛠 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" height="28"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" height="30"/>
 </p>
 
 🔴 **IDE:** VS Code • CubeIDE • PlatformIO  
-🔴 **DevOps:** Git • CI/CD  
+🔴 **DevOps:** Git • GitHub Actions • CI/CD  
 
 </td>
 
@@ -163,8 +150,8 @@
 ## 📊 Data & 3D Modeling
 
 <p>
-<img src="https://skillicons.dev/icons?i=matlab" height="28"/>
-<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="28"/>
+<img src="https://skillicons.dev/icons?i=matlab" height="30"/>
+<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="30"/>
 </p>
 
 🔵 **Analytics:** Time-Series • Monitoring  
