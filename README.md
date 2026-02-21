@@ -58,7 +58,7 @@
 <tr>
 
 <!-- LEFT ANIMATION -->
-<td width="1%" align="left" valign="middle">
+<td width="100%" align="left" valign="middle">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
 </td>
 
