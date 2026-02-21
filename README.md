@@ -70,7 +70,7 @@
 
 <tr>
 
-<td width="90%" valign="top" style="padding:10px;">
+<td width="50%" valign="top" style="padding:0px;">
 
 ### Embedded Firmware & Microcontrollers
 
