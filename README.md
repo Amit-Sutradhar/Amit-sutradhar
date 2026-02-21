@@ -42,37 +42,50 @@
 
 
 ---
+---
 
-## 🔷 Embedded Firmware & Microcontrollers
+## 🔷 IoT, Cloud & Industrial Communication
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="42"/>
-<img src="https://img.icons8.com/color/48/esp32.png" height="42"/>
-<img src="https://skillicons.dev/icons?i=arduino" height="42"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&color=0A66C2&center=true&vCenter=true&width=600&lines=Industrial+Protocols;Cloud+Integration;Real-Time+Dashboards;Edge+Processing" />
 </p>
 
-### ⚙️ Firmware Engineering
-- STM32 (F0/F1/F4/H7)  
-- ESP32 (N8R8/N16R2)  
-- ARM Cortex-M (M0–M7)  
-- PIC / MSP430  
+<table>
+<tr>
+<td width="25%" align="center">
 
-### 🔁 Drivers & Interfaces
-UART • SPI • I2C • CAN • DMA  
-ADC • PWM • Timers • RTC  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="38"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="38"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="38"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38"/><br>
+<img src="https://img.icons8.com/color/48/mqtt.png" height="38"/><br>
+<img src="https://img.icons8.com/color/48/cloud.png" height="38"/>
 
-### ⏱ RTOS & Architecture
-FreeRTOS • Queues • Semaphores  
-Interrupt-driven systems  
-Low-power optimization  
+</td>
 
-### 🔐 Bootloader
-Secure Boot • OTA Updates  
-Dual-bank firmware design  
+<td width="75%">
+
+### 🌐 Industrial Protocols
+Modbus RTU • RS485 • CAN • CRC validation  
+Industrial-grade communication with structured error handling and fail-safe design.
+
+### ☁ Cloud Systems
+AWS IoT • Azure IoT • ThingSpeak  
+Secure MQTT telemetry • Device authentication • Certificate-based security.
+
+### 📊 Real-Time Dashboards
+Backend: Flask / Node.js  
+Frontend: React live UI  
+REST APIs • Time-series data monitoring • Alert systems.
+
+### 🔄 Edge Processing
+Local filtering • Threshold detection  
+Bandwidth optimization • Secure cloud synchronization.
+
+</td>
+</tr>
+</table>
 
 ---
 
