@@ -70,7 +70,7 @@
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ## 🍄 Embedded Firmware
 
