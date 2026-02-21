@@ -43,281 +43,138 @@
 
 ---
 
-# 🔷 Embedded Firmware & Microcontrollers
+## 🔷 Embedded Firmware & Microcontrollers
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="40"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="40"/>
-<img src="https://img.icons8.com/color/48/esp32.png" height="40"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
+<img src="https://img.icons8.com/color/48/stm32.png" height="42"/>
+<img src="https://img.icons8.com/color/48/esp32.png" height="42"/>
+<img src="https://skillicons.dev/icons?i=arduino" height="42"/>
 </p>
 
 ### ⚙️ Firmware Engineering
+- STM32 (F0/F1/F4/H7)  
+- ESP32 (N8R8/N16R2)  
+- ARM Cortex-M (M0–M7)  
+- PIC / MSP430  
 
-Development for:
+### 🔁 Drivers & Interfaces
+UART • SPI • I2C • CAN • DMA  
+ADC • PWM • Timers • RTC  
 
-• STM32 (F0 / F1 / F4 / H7 series)  
-• ESP32 (N8R8 / N16R2 variants)  
-• ARM Cortex-M (M0 / M3 / M4 / M7)  
-• Arduino (UNO / MEGA / Nano)  
-• Microchip PIC & TI MSP430  
+### ⏱ RTOS & Architecture
+FreeRTOS • Queues • Semaphores  
+Interrupt-driven systems  
+Low-power optimization  
 
-Programming Languages & Standards:
-
-• Embedded C (C99 / C11)  
-• C++ (OOP for embedded abstraction)  
-• Python (Tooling, automation, data processing)  
-• Assembly (basic low-level optimization)
-
----
-
-### 🔁 Low-Level Drivers & Communication
-
-• UART / USART  
-• SPI  
-• I2C  
-• CAN / CAN FD  
-• DMA  
-• ADC / DAC  
-• PWM / Timers  
-• RTC (Real-Time Clock)  
-• Watchdog Timers  
-• External Interrupts  
-
-Design Approach:
-
-• Interrupt-driven architecture  
-• Bare-metal register programming  
-• HAL & LL driver usage  
-• Memory-optimized firmware  
-• Low-power sleep modes  
-
-Wireless & Connectivity:
-
-• WiFi (ESP32)  
-• Bluetooth / BLE  
-• GSM / 4G Telemetry  
-• MQTT client integration  
+### 🔐 Bootloader
+Secure Boot • OTA Updates  
+Dual-bank firmware design  
 
 ---
 
-### ⏱ RTOS & System Architecture
+## 🔷 PCB, Hardware & Power Electronics
 
-<img src="https://img.icons8.com/color/48/clock.png" height="35"/>
-
-• FreeRTOS task scheduling  
-• Queues & Semaphores  
-• Mutex & synchronization  
-• Memory heap strategies  
-• Deterministic real-time execution  
-• Stack optimization & overflow protection  
-
-System Design:
-
-• Modular firmware architecture  
-• State machine based logic  
-• Event-driven systems  
-• OTA firmware update strategies  
-
----
-
-### 🔐 Bootloader & Optimization
-
-<img src="https://img.icons8.com/color/48/lock.png" height="35"/>
-
-• Secure bootloader implementation  
-• Firmware integrity verification  
-• Dual-bank firmware strategies  
-• Power consumption optimization  
-• Memory footprint reduction  
-
----
-
-# 🔷 PCB, Hardware & Power Electronics
-
-<p>
-<img src="https://img.icons8.com/color/48/kicad.png" height="40"/>
-<img src="https://img.icons8.com/color/48/circuit.png" height="40"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="40"/>
-<img src="https://img.icons8.com/color/48/electronics.png" height="40"/>
+<p align="center">
+<img src="https://img.icons8.com/color/48/kicad.png" height="42"/>
+<img src="https://img.icons8.com/color/48/electronics.png" height="42"/>
+<img src="https://img.icons8.com/color/48/oscilloscope.png" height="42"/>
+<img src="https://img.icons8.com/color/48/circuit.png" height="42"/>
 </p>
 
-### 🖥 PCB Design Expertise
+### 🖥 PCB Design
+2-Layer • 4-Layer • 6-Layer  
+High-current routing  
+Ground plane strategy  
+Signal integrity  
 
-Tools:
+### ⚡ Power Systems
+SMPS • Buck/Boost  
+Rectifier integration  
+Power monitoring circuits  
 
-• KiCad  
-• Altium (concept familiarity)  
-• STM32CubeMX for pin planning  
-
-Board Types Designed:
-
-• 2-Layer PCB  
-• 4-Layer PCB  
-• 6-Layer PCB (concept & stack planning)
-
-Layout Skills:
-
-• High-current routing  
-• Differential pair routing  
-• Controlled impedance planning  
-• Ground plane optimization  
-• Power plane isolation  
-• Thermal relief & heat dissipation  
-• EMI / EMC mitigation  
+### 🔬 Hardware Debugging
+Oscilloscope analysis  
+Logic analyzer validation  
+EMI / EMC mitigation  
 
 ---
 
-### ⚡ Power Electronics
+## 🔷 IoT, Cloud & Industrial Communication
 
-• SMPS design  
-• DC-DC Buck / Boost converters  
-• Industrial rectifier integration  
-• Power monitoring circuits  
-• Analog front-end signal conditioning  
-
-Vendors Worked With:
-
-• Texas Instruments Power ICs  
-• Analog Devices  
-• Microchip drivers  
-
-Hardware Debugging:
-
-• Oscilloscope analysis  
-• Logic analyzer debugging  
-• Signal integrity checks  
-• Noise reduction strategies  
-
----
-
-# 🔷 IoT, Cloud & Industrial Communication
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42"/>
 </p>
 
 ### 🌐 Industrial Protocols
+Modbus RTU • RS485 • CAN  
+CRC validation • Error handling  
 
-• Modbus RTU  
-• RS485  
-• CAN Bus  
-• I2C sensor networks  
+### ☁ Cloud Systems
+AWS IoT • Azure IoT  
+MQTT secure telemetry  
+ThingSpeak integration  
 
-Industrial deployment ready systems with reliable error handling and CRC validation.
-
----
-
-### ☁ Cloud Integration
-
-• AWS IoT Core  
-• Microsoft Azure IoT  
-• MQTT secure telemetry  
-• Device authentication & certificates  
-• ThingSpeak (MATLAB integration)  
-
-Remote Monitoring:
-
-• Real-time parameter tracking  
-• Alarm-based alerts  
-• Data logging & cloud sync  
-• Secure device-to-cloud pipeline  
-
----
-
-### 📊 Real-Time Dashboards
-
-Backend:
-
-• Flask  
-• Node.js  
-
-Frontend:
-
-• React  
-• Live data visualization  
-• REST API integration  
-
----
+### 📊 Dashboards
+Flask • Node.js  
+React real-time UI  
 
 ### 🔄 Edge Processing
-
-• Local filtering & threshold detection  
-• Bandwidth optimization  
-• Data compression before cloud sync  
+Data filtering  
+Bandwidth optimization  
+Secure cloud sync  
 
 ---
 
-# 🔷 Development Environment & Data Tools
+## 🔷 Development Environment & Tools
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-<img src="https://img.icons8.com/color/48/google-colab.png" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42"/>
 </p>
 
 ### 💻 IDE & Toolchain
+VS Code • CubeIDE  
+Keil • PlatformIO  
+Arduino IDE  
 
-• VS Code  
-• STM32CubeIDE  
-• Keil uVision  
-• PlatformIO  
-• Arduino IDE  
+### 📈 Data & Research
+Jupyter • Colab  
+Conda environments  
+Python data analysis  
 
-Professional firmware workflow & debugging.
-
----
-
-### 📈 Data & Research Tools
-
-• Jupyter Notebook  
-• Google Colab  
-• Conda environments  
-• Python data processing (NumPy / Pandas)
+### 🔁 CI/CD
+Git • GitHub Actions  
+Release version control  
 
 ---
 
-### 🔁 CI/CD & Version Control
+## 🔷 3D Modeling & Data Visualization
 
-• Git  
-• GitHub Actions  
-• Structured firmware lifecycle  
-• Version tagging & release management  
-
----
-
-# 🔷 Data Visualization & 3D Modeling
-
-<p>
-<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="40"/>
-<img src="https://img.icons8.com/color/48/3d.png" height="40"/>
-<img src="https://img.icons8.com/color/48/combo-chart.png" height="40"/>
+<p align="center">
+<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="42"/>
+<img src="https://img.icons8.com/color/48/3d.png" height="42"/>
+<img src="https://img.icons8.com/color/48/combo-chart.png" height="42"/>
 </p>
 
-### 📊 Data Visualization
-
-• Real-time dashboard plotting  
-• Time-series analysis  
-• Sensor data visualization  
-• Cloud-based monitoring UI  
+### 📊 Visualization
+Real-time monitoring  
+Time-series analytics  
+Sensor data dashboards  
 
 ### 🧩 3D Modeling
-
-• Fusion 360  
-• Shapr3D  
-• Mechanical enclosure design  
-• PCB enclosure integration  
-• STL model preparation for 3D printing  
+Fusion 360 • Shapr3D  
+Enclosure design  
+PCB mechanical integration  
 
 ---
 
