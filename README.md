@@ -53,13 +53,13 @@
 
 <div align="right">
 
-<table width="95%" style="table-layout:fixed; border-collapse:separate; border-spacing:15px;">
+<table width="50%" style="table-layout:fixed; border-collapse:separate; border-spacing:15px;">
 
 <tr>
 
 <!-- LEFT ANIMATION -->
 <td width="1%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="110"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="7"/>
 </td>
 
 <!-- BOX 1 -->
