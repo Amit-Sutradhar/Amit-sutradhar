@@ -38,192 +38,286 @@
 
 
 
+
+
+
 ---
 
-# ⚙️ Technical Stack
+# 🔷 Embedded Firmware & Microcontrollers
 
----
-
-## 🔷 Embedded Firmware & Microcontrollers
-
-<table>
-<tr>
-<td width="35%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/><br><br>
-
-<img src="https://skillicons.dev/icons?i=arduino" height="42"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="42"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="42"/>
-<img src="https://img.icons8.com/color/48/esp32.png" height="42"/>
-
-</td>
-
-<td width="65%">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="40"/>
+<img src="https://img.icons8.com/color/48/stm32.png" height="40"/>
+<img src="https://img.icons8.com/color/48/esp32.png" height="40"/>
+</p>
 
 ### ⚙️ Firmware Engineering
 
-Development for STM32 (F0/F1/F4/H7 series), ESP32 (N8R8/N16R2), ARM Cortex-M (M0/M3/M4/M7), Arduino & PIC platforms.
+Development for:
 
-### 🔁 Low-Level Drivers
+• STM32 (F0 / F1 / F4 / H7 series)  
+• ESP32 (N8R8 / N16R2 variants)  
+• ARM Cortex-M (M0 / M3 / M4 / M7)  
+• Arduino (UNO / MEGA / Nano)  
+• Microchip PIC & TI MSP430  
 
-UART, SPI, I2C, CAN, DMA, ADC, PWM, Timers with interrupt-driven architecture.
+Programming Languages & Standards:
 
-### ⏱ RTOS & Architecture
+• Embedded C (C99 / C11)  
+• C++ (OOP for embedded abstraction)  
+• Python (Tooling, automation, data processing)  
+• Assembly (basic low-level optimization)
 
-FreeRTOS task scheduling, memory management, queues, semaphores and deterministic real-time design.
+---
+
+### 🔁 Low-Level Drivers & Communication
+
+• UART / USART  
+• SPI  
+• I2C  
+• CAN / CAN FD  
+• DMA  
+• ADC / DAC  
+• PWM / Timers  
+• RTC (Real-Time Clock)  
+• Watchdog Timers  
+• External Interrupts  
+
+Design Approach:
+
+• Interrupt-driven architecture  
+• Bare-metal register programming  
+• HAL & LL driver usage  
+• Memory-optimized firmware  
+• Low-power sleep modes  
+
+Wireless & Connectivity:
+
+• WiFi (ESP32)  
+• Bluetooth / BLE  
+• GSM / 4G Telemetry  
+• MQTT client integration  
+
+---
+
+### ⏱ RTOS & System Architecture
+
+<img src="https://img.icons8.com/color/48/clock.png" height="35"/>
+
+• FreeRTOS task scheduling  
+• Queues & Semaphores  
+• Mutex & synchronization  
+• Memory heap strategies  
+• Deterministic real-time execution  
+• Stack optimization & overflow protection  
+
+System Design:
+
+• Modular firmware architecture  
+• State machine based logic  
+• Event-driven systems  
+• OTA firmware update strategies  
+
+---
 
 ### 🔐 Bootloader & Optimization
 
-Secure bootloaders, OTA strategies, low-power optimization and modular firmware structure.
+<img src="https://img.icons8.com/color/48/lock.png" height="35"/>
 
-</td>
-</tr>
-</table>
-
----
-
-## 🔷 Embedded Linux Systems
-
-<table>
-<tr>
-<td width="35%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
-
-</td>
-
-<td width="65%">
-
-### 🐧 Linux-Based Embedded Systems
-
-Custom Linux image generation using Yocto & Buildroot.
-
-### 🛠 Kernel & Board Bring-Up
-
-Device tree understanding, kernel configuration, cross-compilation toolchains and systemd services.
-
-### 📟 Driver Fundamentals
-
-User-space integration, hardware abstraction and automation scripting.
-
-</td>
-</tr>
-</table>
+• Secure bootloader implementation  
+• Firmware integrity verification  
+• Dual-bank firmware strategies  
+• Power consumption optimization  
+• Memory footprint reduction  
 
 ---
 
-## 🔷 PCB, Hardware & Power Electronics
+# 🔷 PCB, Hardware & Power Electronics
 
-<table>
-<tr>
-<td width="35%" align="center">
+<p>
+<img src="https://img.icons8.com/color/48/kicad.png" height="40"/>
+<img src="https://img.icons8.com/color/48/circuit.png" height="40"/>
+<img src="https://img.icons8.com/color/48/oscilloscope.png" height="40"/>
+<img src="https://img.icons8.com/color/48/electronics.png" height="40"/>
+</p>
 
-<img src="https://img.icons8.com/color/48/kicad.png" height="42"/>
-<img src="https://img.icons8.com/color/48/electronics.png" height="42"/>
-<img src="https://img.icons8.com/color/48/circuit.png" height="42"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="42"/>
+### 🖥 PCB Design Expertise
 
-</td>
+Tools:
 
-<td width="65%">
+• KiCad  
+• Altium (concept familiarity)  
+• STM32CubeMX for pin planning  
 
-### 🖥 Multi-Layer PCB Design
+Board Types Designed:
 
-KiCad-based multi-layer routing, high-current layout and signal integrity optimization.
+• 2-Layer PCB  
+• 4-Layer PCB  
+• 6-Layer PCB (concept & stack planning)
+
+Layout Skills:
+
+• High-current routing  
+• Differential pair routing  
+• Controlled impedance planning  
+• Ground plane optimization  
+• Power plane isolation  
+• Thermal relief & heat dissipation  
+• EMI / EMC mitigation  
+
+---
 
 ### ⚡ Power Electronics
 
-SMPS design, DC-DC converters, rectifier systems and industrial monitoring integration.
+• SMPS design  
+• DC-DC Buck / Boost converters  
+• Industrial rectifier integration  
+• Power monitoring circuits  
+• Analog front-end signal conditioning  
 
-### 🔬 Hardware Debugging
+Vendors Worked With:
 
-Oscilloscope, logic analyzer, grounding strategy and EMI/EMC mitigation.
+• Texas Instruments Power ICs  
+• Analog Devices  
+• Microchip drivers  
 
-</td>
-</tr>
-</table>
+Hardware Debugging:
+
+• Oscilloscope analysis  
+• Logic analyzer debugging  
+• Signal integrity checks  
+• Noise reduction strategies  
 
 ---
 
-## 🔷 IoT, Cloud & Industrial Communication
+# 🔷 IoT, Cloud & Industrial Communication
 
-<table>
-<tr>
-<td width="35%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/><br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
-
-</td>
-
-<td width="65%">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+</p>
 
 ### 🌐 Industrial Protocols
 
-Implementation of Modbus RTU, RS485 and CAN bus systems.
+• Modbus RTU  
+• RS485  
+• CAN Bus  
+• I2C sensor networks  
 
-### ☁ Cloud Integration
-
-AWS IoT, MQTT-based telemetry, secure remote device management.
-
-### 📊 Real-Time Dashboards
-
-Backend systems using Flask & Node.js, frontend monitoring via React.
-
-### 🔄 Edge Processing
-
-Optimized telemetry transmission and cloud-synced embedded systems.
-
-</td>
-</tr>
-</table>
+Industrial deployment ready systems with reliable error handling and CRC validation.
 
 ---
 
-## 🔷 Development Environment & Data Tools
+### ☁ Cloud Integration
 
-<table>
-<tr>
-<td width="35%" align="center">
+• AWS IoT Core  
+• Microsoft Azure IoT  
+• MQTT secure telemetry  
+• Device authentication & certificates  
+• ThingSpeak (MATLAB integration)  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42"/>
-<img src="https://img.icons8.com/color/48/google-colab.png" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42"/>
+Remote Monitoring:
 
-</td>
+• Real-time parameter tracking  
+• Alarm-based alerts  
+• Data logging & cloud sync  
+• Secure device-to-cloud pipeline  
 
-<td width="65%">
+---
+
+### 📊 Real-Time Dashboards
+
+Backend:
+
+• Flask  
+• Node.js  
+
+Frontend:
+
+• React  
+• Live data visualization  
+• REST API integration  
+
+---
+
+### 🔄 Edge Processing
+
+• Local filtering & threshold detection  
+• Bandwidth optimization  
+• Data compression before cloud sync  
+
+---
+
+# 🔷 Development Environment & Data Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+<img src="https://img.icons8.com/color/48/google-colab.png" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
 
 ### 💻 IDE & Toolchain
 
-VS Code, STM32CubeIDE, Keil uVision, PlatformIO for firmware workflows.
+• VS Code  
+• STM32CubeIDE  
+• Keil uVision  
+• PlatformIO  
+• Arduino IDE  
+
+Professional firmware workflow & debugging.
+
+---
 
 ### 📈 Data & Research Tools
 
-Jupyter Notebook, Google Colab and Conda environments for embedded data processing.
+• Jupyter Notebook  
+• Google Colab  
+• Conda environments  
+• Python data processing (NumPy / Pandas)
+
+---
 
 ### 🔁 CI/CD & Version Control
 
-Git, GitHub Actions and structured firmware lifecycle management.
+• Git  
+• GitHub Actions  
+• Structured firmware lifecycle  
+• Version tagging & release management  
 
-</td>
-</tr>
-</table>
+---
+
+# 🔷 Data Visualization & 3D Modeling
+
+<p>
+<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="40"/>
+<img src="https://img.icons8.com/color/48/3d.png" height="40"/>
+<img src="https://img.icons8.com/color/48/combo-chart.png" height="40"/>
+</p>
+
+### 📊 Data Visualization
+
+• Real-time dashboard plotting  
+• Time-series analysis  
+• Sensor data visualization  
+• Cloud-based monitoring UI  
+
+### 🧩 3D Modeling
+
+• Fusion 360  
+• Shapr3D  
+• Mechanical enclosure design  
+• PCB enclosure integration  
+• STL model preparation for 3D printing  
 
 ---
 
