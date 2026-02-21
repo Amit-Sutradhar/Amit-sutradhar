@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=FF0000&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT;Real-Time+%7C+Industrial+%7C+Power+Electronics" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=FF0000&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT;Real-Time+%7C+Industrial+%7C+Power+Electronics](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
 </p>
 
 <p align="center">
