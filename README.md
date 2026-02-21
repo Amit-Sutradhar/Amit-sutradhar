@@ -1,91 +1,91 @@
-<!-- HEADER -->
+<!-- ================= HERO SECTION ================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Amit+Sutradhar;Embedded+Systems+Engineer;IIIT+Hyderabad+Researcher;IoT+%7C+RTOS+%7C+PCB+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT+Architect;Real-Time+%7C+Industrial+%7C+Power+Electronics" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
-👨‍💻 Amit Sutradhar
+
+## 👨‍💻 Amit Sutradhar  
 
 **Embedded Systems Engineer | Firmware Developer | IoT Architect**
 
-🎓 MS by Research – IIIT Hyderabad  
-📜 Patent Granted – Intelligent Monitoring System  
-🔬 Specialized in Real-Time Embedded + Industrial Systems  
-🎯 Open to Embedded / Firmware Engineering Roles  
+- 🎓 MS by Research — IIIT Hyderabad  
+- 🏆 Patent Granted — Intelligent Monitoring System  
+- ⚡ Specialized in Real-Time Embedded & Industrial Systems  
+- 🎯 Open to Embedded / Firmware Engineering Roles  
 
 ---
 
-
+<!-- ================= STATS SECTION ================= -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit-sutradhar&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-sutradhar&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-sutradhar&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amit-sutradhar&theme=github_dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true" width="95%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-sutradhar&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" />
-</p>
-
-
-
-
-
-
 
 ---
 
+<!-- ================= BOTTOM METRICS 1x4 ================= -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT+%7C+Cloud" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-sutradhar&theme=github_dark" width="24%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" width="24%"/>
 </p>
+
+---
+
+# 🔷 Technical Expertise
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## 🔷 Embedded Firmware & Microcontrollers
+### Embedded Firmware & Microcontrollers
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22"/>
 <img src="https://skillicons.dev/icons?i=arduino" height="22"/>
+<img src="https://img.icons8.com/color/48/stm32.png" height="22"/>
 </p>
 
-**Platforms:** STM32 • ESP32  
-ARM Cortex-M • PIC  
+STM32 (F0/F1/F4/H7) • ESP32 (N8R8/N16R2)  
+ARM Cortex-M • PIC • MSP430  
 
-**Core:** UART • SPI  
-I2C • CAN  
-
-**RTOS:** FreeRTOS • OTA  
-Secure Boot • Low Power  
+UART • SPI • I2C • CAN • DMA  
+FreeRTOS • Secure Boot • OTA  
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔷 Embedded Linux Systems
+### Embedded Linux Systems
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="22"/>
 <img src="https://skillicons.dev/icons?i=raspberrypi" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22"/>
 </p>
 
-**Build:** Yocto • Buildroot  
-Cross Compile • Toolchain  
+Yocto • Buildroot • Cross Compile  
+Device Tree • Kernel Config  
 
-**Kernel:** Device Tree • Config  
-Board Bring-up • Debug  
-
-**Automation:** Shell • Services  
-Diagnostics • Logging  
+Shell Automation • Diagnostics  
+System Services • Debugging  
 
 </td>
 
@@ -95,43 +95,39 @@ Diagnostics • Logging
 
 <td width="50%" valign="top">
 
-## 🔷 PCB, Hardware & Power
+### PCB, Hardware & Power Electronics
 
 <p>
 <img src="https://img.icons8.com/color/48/kicad.png" height="22"/>
 <img src="https://img.icons8.com/color/48/circuit.png" height="22"/>
 <img src="https://img.icons8.com/color/48/oscilloscope.png" height="22"/>
+<img src="https://img.icons8.com/color/48/electronics.png" height="22"/>
 </p>
 
-**PCB:** 2L • 4L  
-6L • Ground Planes  
+2L • 4L • 6L PCB Design  
+Ground Planes • Signal Integrity  
 
-**Power:** SMPS • Buck  
-Boost • Rectifier  
-
-**Validation:** Scope • Analyzer  
-EMI • Noise  
+SMPS • Buck/Boost • Rectifiers  
+EMI/EMC • Hardware Validation  
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔷 IoT & Cloud Systems
+### IoT & Cloud Systems
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="22"/>
 </p>
 
-**Industrial:** Modbus • RS485  
-CAN • CRC  
+Modbus • RS485 • CAN  
+MQTT • Secure Telemetry  
 
-**Cloud:** AWS • Azure  
-MQTT • ThingSpeak  
-
-**Monitoring:** Flask • React  
-REST • Edge Sync  
+AWS IoT • Azure IoT  
+Flask • React • REST APIs  
 
 </td>
 
@@ -141,25 +137,26 @@ REST • Edge Sync
 
 <td width="50%" valign="top">
 
-## 🔷 Development Tools
+### Development Environment
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="22"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="22"/>
 </p>
 
-**IDE:** VS Code • CubeIDE  
-Keil • PlatformIO  
+VS Code • CubeIDE • Keil  
+PlatformIO • Arduino IDE  
 
-**Data:** Jupyter • Colab  
-Conda • Python  
+Git • GitHub Actions  
+CI/CD • Firmware Lifecycle  
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔷 Data & 3D Modeling
+### Data & 3D Modeling
 
 <p>
 <img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="22"/>
@@ -167,36 +164,21 @@ Conda • Python
 <img src="https://img.icons8.com/color/48/combo-chart.png" height="22"/>
 </p>
 
-**Visualization:** Dashboards • Analytics  
-Time-Series • Monitoring  
+Real-Time Dashboards  
+Time-Series Analytics  
 
-**3D:** Fusion 360 • Shapr3D  
-Enclosure • PCB Fit  
+Fusion 360 • Shapr3D  
+PCB Mechanical Integration  
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-
-
-
-
----
-# Hights
-
-- Patent Holder – IIIT Hyderabad  
-- Industrial Power Monitoring Systems  
-- Real-time IoT Data Architecture  
-- Embedded Hardware-Cloud Integration  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amit-sutradhar&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 ---
-
-# 🌐 Connect
-
-📧 amitsutradhar253@gmail.com  
-💼 LinkedIn  
-🌍 GitHub  
