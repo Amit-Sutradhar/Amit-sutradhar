@@ -29,6 +29,32 @@
 
 <!-- ================= MOVING TECHNOLOGY LOGOS ================= -->
 
+# 🏆 Achievements & Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Patents-5%20Granted-red?style=for-the-badge&logo=google-scholar" />
+<img src="https://img.shields.io/badge/MS%20Research-IIIT%20Hyderabad-blue?style=for-the-badge&logo=academia" />
+<img src="https://img.shields.io/badge/Domain-Embedded%20Systems-green?style=for-the-badge&logo=stmicroelectronics" />
+<img src="https://img.shields.io/badge/Focus-RealTime%20%26%20Industrial-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Specialization-IoT%20%26%20Power%20Electronics-purple?style=for-the-badge" />
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="40"/>
@@ -71,38 +97,8 @@
 
 ---
 
-# 🏆 Achievements & Highlights
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Patents-5%20Granted-red?style=for-the-badge&logo=google-scholar" />
-<img src="https://img.shields.io/badge/MS%20Research-IIIT%20Hyderabad-blue?style=for-the-badge&logo=academia" />
-<img src="https://img.shields.io/badge/Domain-Embedded%20Systems-green?style=for-the-badge&logo=stmicroelectronics" />
-<img src="https://img.shields.io/badge/Focus-RealTime%20%26%20Industrial-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Specialization-IoT%20%26%20Power%20Electronics-purple?style=for-the-badge" />
-
-</p>
 
 ---
-
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/amit-sutradhar?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/amit-sutradhar?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
-<img src="https://img.shields.io/github/repo-size/amit-sutradhar/amit-sutradhar?style=for-the-badge" />
-<img src="https://img.shields.io/github/last-commit/amit-sutradhar/amit-sutradhar?style=for-the-badge" />
-
-</p>
-
----
-
-
-
-
-
-
 
 ---
 
