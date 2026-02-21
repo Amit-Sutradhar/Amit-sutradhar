@@ -66,11 +66,11 @@
 
 <div align="center">
 
-<table width="900px" style="max-width:15%; table-layout:fixed;">
+<table width="900px" style="max-width:95%; table-layout:fixed;">
 
 <tr>
 
-<td width="50%" valign="top" style="padding:10px;">
+<td width="90%" valign="top" style="padding:10px;">
 
 ### Embedded Firmware & Microcontrollers
 
