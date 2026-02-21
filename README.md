@@ -64,136 +64,98 @@
 
 
 
-
 ---
 
-# 🔷 Technical Expertise
+# 🎮 Technical Expertise
+
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" width="100%">
+</p>
 
 <!-- ================= EMBEDDED ================= -->
 
-<table width="100%">
-<tr>
-<td width="10%" align="center">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="70"/>
-</td>
-<td>
+## 🍄 Embedded Firmware & Microcontrollers
 
-## 🔹 Embedded Firmware & Microcontrollers
+<p>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="30"/>
+  <img src="https://img.icons8.com/color/48/stm32.png" height="30"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="28"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="28"/>
-<img src="https://img.icons8.com/color/48/microchip.png" height="28"/>
-
-**Platforms:** STM32 (F0/F1/F4/H7), ESP32 (N8R8/N16R2), ARM Cortex-M, PIC, MSP430  
-**Protocols:** UART, SPI, I2C, CAN, RS485  
-**RTOS:** FreeRTOS, Task Scheduling, ISR Optimization  
-**Security:** Secure Boot, OTA Updates, Firmware Encryption  
-**Debugging:** JTAG, SWD, Logic Analyzer, Oscilloscope  
-
-</td>
-</tr>
-</table>
+🔹 **Platforms:** STM32 (F0/F1/F4/H7), ESP32, ARM Cortex-M  
+🔹 **Protocols:** UART • SPI • I2C • CAN • RS485  
+🔹 **RTOS:** FreeRTOS • Task Scheduling • ISR Optimization  
+🔹 **Security:** Secure Boot • OTA • Firmware Protection  
+🔹 **Debug Tools:** JTAG • SWD • Logic Analyzer  
 
 ---
 
 <!-- ================= LINUX ================= -->
 
-<table width="100%">
-<tr>
-<td width="10%" align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70"/>
-</td>
-<td>
-
 ## 🐧 Embedded Linux Systems
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="28"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="28"/>
+<p>
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu,raspberrypi" height="30"/>
+</p>
 
-**Build Systems:** Yocto, Buildroot, Cross Compilation  
-**Kernel:** Device Tree, Kernel Configuration, Driver Debugging  
-**Services:** systemd, Shell Automation, Diagnostics  
-**Containers:** Docker, Embedded Deployment  
-**Networking:** SSH, TCP/IP, MQTT Integration  
-
-</td>
-</tr>
-</table>
+🔹 **Build Systems:** Yocto • Buildroot • Cross Compilation  
+🔹 **Kernel:** Device Tree • Kernel Config • Driver Debugging  
+🔹 **Services:** systemd • Shell Automation • Diagnostics  
+🔹 **Networking:** SSH • TCP/IP • MQTT Integration  
 
 ---
 
 <!-- ================= PCB ================= -->
 
-<table width="100%">
-<tr>
-<td width="10%" align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70"/>
-</td>
-<td>
-
 ## ⚡ PCB, Hardware & Power Electronics
 
-<img src="https://img.icons8.com/color/48/kicad.png" height="28"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="28"/>
-<img src="https://img.icons8.com/color/48/electronics.png" height="28"/>
+<p>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"/>
+  <img src="https://img.icons8.com/color/48/kicad.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/oscilloscope.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/electronics.png" height="30"/>
+</p>
 
-**Design:** 2L / 4L / 6L PCB Layout, Ground Planes, Signal Integrity  
-**Power:** SMPS, Buck/Boost, Rectifiers, High-Current Design  
-**Compliance:** EMI/EMC Reduction, Hardware Validation  
-**Testing:** Load Testing, Thermal Profiling, Ripple Analysis  
-
-</td>
-</tr>
-</table>
+🔹 **PCB Design:** 2L • 4L • 6L Layout • Ground Planes  
+🔹 **Power Systems:** SMPS • Buck/Boost • Rectifiers  
+🔹 **Compliance:** EMI/EMC Reduction • Hardware Validation  
+🔹 **Testing:** Load Testing • Thermal Profiling  
 
 ---
 
 <!-- ================= IOT ================= -->
 
-<table width="100%">
-<tr>
-<td width="10%" align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70"/>
-</td>
-<td>
-
 ## ☁️ IoT & Cloud Systems
 
-<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb" height="28"/>
-<img src="https://skillicons.dev/icons?i=flask" height="28"/>
+<p>
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb,flask" height="30"/>
+</p>
 
-**Communication:** MQTT, RS485, CAN, Secure Telemetry  
-**Cloud:** AWS IoT, Azure IoT, REST APIs  
-**Backend:** Flask, Node, Database Integration  
-**Dashboards:** Real-Time Monitoring, Time-Series Analytics  
-
-</td>
-</tr>
-</table>
+🔹 **Communication:** MQTT • RS485 • CAN • Secure Telemetry  
+🔹 **Cloud Platforms:** AWS IoT • Azure IoT  
+🔹 **Backend:** Flask • REST APIs • Database Integration  
+🔹 **Dashboards:** Real-Time Monitoring • Time-Series Analytics  
 
 ---
 
 <!-- ================= DEV ================= -->
 
-<table width="100%">
-<tr>
-<td width="10%" align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70"/>
-</td>
-<td>
-
 ## 🛠 Development Environment
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github" height="28"/>
-<img src="https://skillicons.dev/icons?i=matlab" height="28"/>
+<p>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,matlab" height="30"/>
+</p>
 
-**IDE:** VS Code, CubeIDE, Keil, PlatformIO  
-**Version Control:** Git, GitHub Actions, CI/CD  
-**Simulation:** MATLAB, Real-Time Debugging  
-**Lifecycle:** Firmware Release Management  
-
-</td>
-</tr>
-</table>
+🔹 **IDE:** VS Code • CubeIDE • Keil • PlatformIO  
+🔹 **Version Control:** Git • GitHub Actions • CI/CD  
+🔹 **Simulation:** MATLAB • Debugging Tools  
+🔹 **Firmware Lifecycle:** Release Management • Deployment  
 
 ---
+
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" width="100%">
+</p>
