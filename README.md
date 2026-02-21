@@ -66,7 +66,7 @@
 
 # 🎮 Technical Expertise
 
-<table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:35px 30px;">
+<table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:35px 80px;">
 
 <tr>
 
