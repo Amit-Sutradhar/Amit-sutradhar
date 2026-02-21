@@ -20,8 +20,8 @@
 
 **Embedded Systems Engineer | Firmware Developer | IoT Architect**
 
-- 🎓 MS by Research — IIIT Hyderabad  
-- 🏆 Patent Granted — Intelligent Monitoring System  
+- 🎓 MS by Research IIIT Hyderabad  
+- 🏆 Five Patent Granted Holder 
 - ⚡ Specialized in Real-Time Embedded & Industrial Systems  
 - 🎯 Open to Embedded / Firmware Engineering Roles  
 
