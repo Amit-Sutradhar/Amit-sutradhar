@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<table width="2000px" style="max-width:95%; table-layout:fixed;">
+<table width="2000px" style="max-width:100%; table-layout:fixed;">
 
 <tr>
 
