@@ -64,13 +64,30 @@
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 # 🎮 Technical Expertise
 
-<table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:5px 0px;">
+<div align="center">
+
+<table width="100%" style="table-layout:fixed; border-collapse:collapse;">
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
 ## 🍄 Embedded Firmware
 
@@ -84,7 +101,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
 ## 🐧 Embedded Linux
 
@@ -101,7 +118,7 @@
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
 ## ⚡ PCB & Power Electronics
 
@@ -115,7 +132,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
 ## ☁️ IoT & Cloud Systems
 
@@ -132,7 +149,7 @@
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
 ## 🛠 Development Tools
 
@@ -145,7 +162,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:30px 40px;">
 
 ## 📊 Data & 3D Modeling
 
@@ -162,5 +179,7 @@
 </tr>
 
 </table>
+
+</div>
 
 ---
