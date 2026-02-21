@@ -87,7 +87,7 @@
 
 <tr>
 
-<td width="50%" valign="top" style="padding:30px 40px;">
+<td width="80%" valign="top" style="padding:30px 40px;">
 
 ## 🍄 Embedded Firmware
 
