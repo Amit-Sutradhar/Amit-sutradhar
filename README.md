@@ -1,7 +1,7 @@
 <!-- ================= HERO SECTION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT+Architect;Real-Time+%7C+Industrial+%7C+Power+Electronics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT+Architect;Real-Time+%7C+Industrial+%7C+Power+Electronics" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ---
 
-<!-- ================= BOTTOM METRICS ================= -->
+<!-- ================= SUMMARY CARDS ================= -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
@@ -44,21 +44,6 @@
 </p>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # 🔷 Technical Expertise
 
@@ -174,3 +159,10 @@ Mechanical Integration
 
 </table>
 
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amit-sutradhar&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
