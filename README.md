@@ -63,7 +63,7 @@
 </td>
 
 <!-- BOX 1 -->
-<td width="42%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+<td width="2%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
 
 ### 🔹 Embedded Firmware & Microcontrollers
 
