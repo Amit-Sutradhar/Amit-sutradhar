@@ -49,30 +49,33 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 # 🔷 Technical Expertise
 
-<div align="right">
-
-<table width="50%" style="table-layout:fixed; border-collapse:separate; border-spacing:15px;">
+<table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:20px;">
 
 <tr>
 
-<!-- LEFT ANIMATION -->
-<td width="100%" align="left" valign="middle">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
-</td>
-
-<!-- BOX 1 -->
-<td width="92%" valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
 
 ### 🔹 Embedded Firmware & Microcontrollers
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22"/>
-<img src="https://skillicons.dev/icons?i=arduino" height="22"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/>
+<img src="https://skillicons.dev/icons?i=arduino" height="24"/>
+<img src="https://img.icons8.com/color/48/stm32.png" height="24"/>
 </p>
 
 STM32 • ESP32 • ARM Cortex-M  
@@ -81,15 +84,14 @@ FreeRTOS • OTA
 
 </td>
 
-<!-- BOX 2 -->
-<td width="43%" valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
+<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
 
 ### 🐧 Embedded Linux Systems
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="22"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi,docker,ubuntu" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,docker,ubuntu" height="24"/>
 </p>
 
 Yocto • Buildroot  
@@ -102,18 +104,14 @@ Systemd • Debugging
 
 <tr>
 
-<td align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="110"/>
-</td>
-
-<td valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
+<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
 
 ### ⚡ PCB, Hardware & Power Electronics
 
 <p>
-<img src="https://img.icons8.com/color/48/kicad.png" height="22"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="22"/>
-<img src="https://img.icons8.com/color/48/electronics.png" height="22"/>
+<img src="https://img.icons8.com/color/48/kicad.png" height="24"/>
+<img src="https://img.icons8.com/color/48/oscilloscope.png" height="24"/>
+<img src="https://img.icons8.com/color/48/electronics.png" height="24"/>
 </p>
 
 2L • 4L • 6L PCB  
@@ -122,15 +120,15 @@ EMI/EMC • Validation
 
 </td>
 
-<td valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
 
 ### ☁️ IoT & Cloud Systems
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22"/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="24"/>
 </p>
 
 MQTT • RS485 • CAN  
@@ -142,18 +140,14 @@ AWS IoT • REST APIs
 
 <tr>
 
-<td align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="110"/>
-</td>
-
-<td valign="top" style="padding:20px; background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
 
 ### 🛠 Development Environment
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24"/>
 </p>
 
 VS Code • CubeIDE  
@@ -161,13 +155,13 @@ Git • CI/CD
 
 </td>
 
-<td valign="top" style="padding:20px; background-color:#111827; border:1px solid #30363d; border-radius:12px;">
+<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
 
 ### 📊 Data & 3D Modeling
 
 <p>
-<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="22"/>
-<img src="https://skillicons.dev/icons?i=matlab" height="22"/>
+<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="24"/>
+<img src="https://skillicons.dev/icons?i=matlab" height="24"/>
 </p>
 
 Real-Time Dashboards  
@@ -180,12 +174,3 @@ Mechanical Integration
 
 </table>
 
-</div>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit-sutradhar&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
