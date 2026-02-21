@@ -37,240 +37,151 @@
 
 
 
-
 ---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT+%7C+Cloud" />
+</p>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🔷 Embedded Firmware & Microcontrollers
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/>
-<img src="https://skillicons.dev/icons?i=arduino" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22"/>
+<img src="https://skillicons.dev/icons?i=arduino" height="22"/>
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-**Platforms**  
-STM32 • ESP32  
+**Platforms:** STM32 • ESP32  
 ARM Cortex-M • PIC  
 
-</td>
-<td width="50%">
-
-**Languages**  
-Embedded C • C++  
-Python • Assembly  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-**Interfaces**  
-UART • SPI  
+**Core:** UART • SPI  
 I2C • CAN  
 
-</td>
-<td width="50%">
-
-**Architecture**  
-FreeRTOS • OTA  
+**RTOS:** FreeRTOS • OTA  
 Secure Boot • Low Power  
 
 </td>
-</tr>
-</table>
 
----
+<td width="50%" valign="top">
 
 ## 🔷 Embedded Linux Systems
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="22"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="22"/>
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%">
+**Build:** Yocto • Buildroot  
+Cross Compile • Toolchain  
 
-**Build Systems**  
-Yocto • Buildroot  
-Cross Compile • Toolchains  
-
-</td>
-<td width="50%">
-
-**Kernel**  
-Device Tree • Config  
+**Kernel:** Device Tree • Config  
 Board Bring-up • Debug  
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-**Automation**  
-Shell Scripts • Services  
+**Automation:** Shell • Services  
 Diagnostics • Logging  
 
 </td>
-<td width="50%">
 
-**Deployment**  
-Systemd • Packaging  
-Docker • Updates  
-
-</td>
 </tr>
-</table>
 
----
+<tr>
 
-## 🔷 PCB, Hardware & Power Electronics
+<td width="50%" valign="top">
+
+## 🔷 PCB, Hardware & Power
 
 <p>
-<img src="https://img.icons8.com/color/48/kicad.png" height="24"/>
-<img src="https://img.icons8.com/color/48/circuit.png" height="24"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="24"/>
+<img src="https://img.icons8.com/color/48/kicad.png" height="22"/>
+<img src="https://img.icons8.com/color/48/circuit.png" height="22"/>
+<img src="https://img.icons8.com/color/48/oscilloscope.png" height="22"/>
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-**PCB Design**  
-2L • 4L  
+**PCB:** 2L • 4L  
 6L • Ground Planes  
 
-</td>
-<td width="50%">
+**Power:** SMPS • Buck  
+Boost • Rectifier  
 
-**Power**  
-SMPS • Buck  
-Boost • Rectifiers  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-**Signal Integrity**  
-EMI • EMC  
-Noise Control • Routing  
+**Validation:** Scope • Analyzer  
+EMI • Noise  
 
 </td>
-<td width="50%">
 
-**Validation**  
-Oscilloscope • Analyzer  
-Testing • Optimization  
+<td width="50%" valign="top">
 
-</td>
-</tr>
-</table>
-
----
-
-## 🔷 IoT, Cloud & Industrial Communication
+## 🔷 IoT & Cloud Systems
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22"/>
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-**Industrial**  
-Modbus • RS485  
+**Industrial:** Modbus • RS485  
 CAN • CRC  
 
-</td>
-<td width="50%">
-
-**Cloud**  
-AWS IoT • Azure  
+**Cloud:** AWS • Azure  
 MQTT • ThingSpeak  
 
+**Monitoring:** Flask • React  
+REST • Edge Sync  
+
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-**Monitoring**  
-Flask • Node  
-React • REST  
+<td width="50%" valign="top">
 
-</td>
-<td width="50%">
-
-**Edge**  
-Filtering • Sync  
-Bandwidth • Security  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔷 Development Environment & Data Tools
+## 🔷 Development Tools
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="22"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22"/>
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-**IDE**  
-VS Code • CubeIDE  
+**IDE:** VS Code • CubeIDE  
 Keil • PlatformIO  
 
-</td>
-<td width="50%">
-
-**Data Tools**  
-Jupyter • Colab  
+**Data:** Jupyter • Colab  
 Conda • Python  
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Version Control**  
-Git • GitHub  
-Actions • CI/CD  
+## 🔷 Data & 3D Modeling
+
+<p>
+<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="22"/>
+<img src="https://img.icons8.com/color/48/3d.png" height="22"/>
+<img src="https://img.icons8.com/color/48/combo-chart.png" height="22"/>
+</p>
+
+**Visualization:** Dashboards • Analytics  
+Time-Series • Monitoring  
+
+**3D:** Fusion 360 • Shapr3D  
+Enclosure • PCB Fit  
 
 </td>
-<td width="50%">
 
-**Modeling**  
-Fusion 360 • Shapr3D  
-3D Enclosures • Integration  
-
-</td>
 </tr>
+
 </table>
 
 ---
+
+
 
 
 
