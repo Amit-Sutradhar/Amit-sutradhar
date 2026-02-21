@@ -81,16 +81,6 @@
 
 
 
-
-
-
----
-
-
----
-
----
-
 # 🎮 Technical Expertise
 
 <div align="center">
