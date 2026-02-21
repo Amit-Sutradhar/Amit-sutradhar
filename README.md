@@ -66,11 +66,11 @@
 
 # 🎮 Technical Expertise
 
-<table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:35px 80px;">
+<table width="140%" style="table-layout:fixed; border-collapse:separate; border-spacing:35px 80px;">
 
 <tr>
 
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ## 🍄 Embedded Firmware
 
