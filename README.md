@@ -1,86 +1,73 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= MARIO HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT+Architect;Real-Time+%7C+Industrial+%7C+Power+Electronics" />
+  <img src="https://i.imgur.com/AXYd8bD.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=FF0000&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Firmware+%7C+Hardware+%7C+IoT;Real-Time+%7C+Industrial+%7C+Power+Electronics" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit-sutradhar&label=Player+Visits&color=red&style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 Amit Sutradhar  
+## 👾 Amit Sutradhar
 
-**Embedded Systems Engineer | Firmware Developer | IoT Architect**
-
-- 🎓 MS by Research — IIIT Hyderabad  
-- 🏆 Patent Granted — Intelligent Monitoring System  
-- ⚡ Specialized in Real-Time Embedded & Industrial Systems  
-- 🎯 Open to Embedded / Firmware Engineering Roles  
+🎓 MS by Research — IIIT Hyderabad  
+🏆 Patent Granted — Intelligent Monitoring System  
+⚡ Real-Time Embedded & Industrial Systems  
+🎯 Open to Embedded / Firmware Roles  
 
 ---
+
+<!-- ================= PIXEL DIVIDER ================= -->
+
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" width="100%">
+</p>
 
 <!-- ================= STATS SECTION ================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-sutradhar&theme=github-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-sutradhar&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-<!-- ================= SUMMARY CARDS ================= -->
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-sutradhar&theme=github_dark" width="24%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" width="24%"/>
-</p>
-
----
-
-# 🔷 Technical Expertise
+# 🎮 Technical Expertise
 
 <table width="100%" style="table-layout:fixed; border-collapse:separate; border-spacing:20px;">
 
 <tr>
 
-<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
+<td width="50%" valign="top" style="padding:25px; background:#1a1a2e; border:3px solid #ff0000;">
 
-### 🔹 Embedded Firmware & Microcontrollers
+### 🍄 Embedded Firmware
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/>
-<img src="https://skillicons.dev/icons?i=arduino" height="24"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="24"/>
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="30"/>
 
-STM32 • ESP32 • ARM Cortex-M  
-UART • SPI • I2C • CAN  
+STM32 • ESP32  
+UART • SPI • CAN  
 FreeRTOS • OTA  
 
 </td>
 
-<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
+<td width="50%" valign="top" style="padding:25px; background:#16213e; border:3px solid #00f5ff;">
 
-### 🐧 Embedded Linux Systems
+### 🐧 Embedded Linux
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi,docker,ubuntu" height="24"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="30"/>
 
 Yocto • Buildroot  
-Device Tree • Kernel Config  
+Device Tree  
 Systemd • Debugging  
 
 </td>
@@ -89,35 +76,27 @@ Systemd • Debugging
 
 <tr>
 
-<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
+<td width="50%" valign="top" style="padding:25px; background:#16213e; border:3px solid #00f5ff;">
 
-### ⚡ PCB, Hardware & Power Electronics
+### ⚡ PCB & Power
 
-<p>
-<img src="https://img.icons8.com/color/48/kicad.png" height="24"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="24"/>
-<img src="https://img.icons8.com/color/48/electronics.png" height="24"/>
-</p>
+<img src="https://img.icons8.com/color/48/kicad.png" height="30"/>
+<img src="https://img.icons8.com/color/48/oscilloscope.png" height="30"/>
 
-2L • 4L • 6L PCB  
+4L • 6L PCB  
 SMPS • Buck/Boost  
-EMI/EMC • Validation  
+EMI/EMC  
 
 </td>
 
-<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
+<td width="50%" valign="top" style="padding:25px; background:#1a1a2e; border:3px solid #ff0000;">
 
-### ☁️ IoT & Cloud Systems
+### ☁️ IoT & Cloud
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="24"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb" height="30"/>
 
-MQTT • RS485 • CAN  
-AWS IoT • REST APIs  
+MQTT • RS485  
+REST APIs  
 
 </td>
 
@@ -125,31 +104,25 @@ AWS IoT • REST APIs
 
 <tr>
 
-<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
+<td width="50%" valign="top" style="padding:25px; background:#1a1a2e; border:3px solid #ff0000;">
 
-### 🛠 Development Environment
+### 🛠 Development Tools
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24"/>
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" height="30"/>
 
-VS Code • CubeIDE  
-Git • CI/CD  
+CubeIDE • PlatformIO  
+CI/CD  
 
 </td>
 
-<td width="50%" valign="top" style="padding:25px; background-color:#0d1117; border:1px solid #30363d; border-radius:14px;">
+<td width="50%" valign="top" style="padding:25px; background:#16213e; border:3px solid #00f5ff;">
 
 ### 📊 Data & 3D Modeling
 
-<p>
-<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="24"/>
-<img src="https://skillicons.dev/icons?i=matlab" height="24"/>
-</p>
+<img src="https://skillicons.dev/icons?i=matlab" height="30"/>
+<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="30"/>
 
-Real-Time Dashboards  
+Dashboards  
 Fusion 360  
 Mechanical Integration  
 
@@ -162,7 +135,9 @@ Mechanical Integration
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit-sutradhar&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="250"/>
 </p>
 
----
+<p align="center">
+  <b>LEVEL UP 🚀</b>
+</p>
