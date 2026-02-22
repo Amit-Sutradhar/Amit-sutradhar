@@ -67,26 +67,6 @@
 
 
 
-<!-- ====== ACTIVITY GRAPH ====== -->
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=tokyo-night&hide_border=true" 
-    width="100%"
-  />
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amit-sutradhar/amit-sutradhar/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-
 
 
 
