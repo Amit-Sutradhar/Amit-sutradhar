@@ -16,89 +16,76 @@
 
 ---
 
-## 👨‍💻 Amit Sutradhar  
+# 👨‍💻 Amit Sutradhar  
 
-**Embedded Systems Engineer | Firmware Developer | IoT Architect**
+### Embedded Systems Engineer | Firmware Developer | IoT Architect
 
-- 🎓 MS by Research IIIT Hyderabad  
-- 🏆 Five Patent Granted Holder 
+- 🎓 MS by Research – IIIT Hyderabad  
+- 🏆 Five Patent Granted Holder  
 - ⚡ Specialized in Real-Time Embedded & Industrial Systems  
 - 🎯 Open to Embedded / Firmware Engineering Roles  
 
 ---
 
-<!-- ================= MOVING TECHNOLOGY LOGOS ================= -->
-
 # 🏆 Achievements & Highlights
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Patents-5%20Granted-red?style=for-the-badge&logo=google-scholar" />
-<img src="https://img.shields.io/badge/MS%20Research-IIIT%20Hyderabad-blue?style=for-the-badge&logo=academia" />
-<img src="https://img.shields.io/badge/Domain-Embedded%20Systems-green?style=for-the-badge&logo=stmicroelectronics" />
+<img src="https://img.shields.io/badge/Patents-5%20Granted-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MS%20Research-IIIT%20Hyderabad-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Domain-Embedded%20Systems-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-RealTime%20%26%20Industrial-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Specialization-IoT%20%26%20Power%20Electronics-purple?style=for-the-badge" />
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ================= SUMMARY CARDS ================= -->
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amit-sutradhar&theme=github_dark" width="24%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-sutradhar&theme=github_dark" width="24%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amit-sutradhar&theme=github_dark&utcOffset=5.5" width="24%"/>
 </p>
 
 ---
 
-<!-- ================= STATS SECTION ================= -->
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-sutradhar&theme=github-dark&hide_border=true" height="170"/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    height="165"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=amit-sutradhar&theme=github-dark&hide_border=true&cache_seconds=1800" 
+    height="165"
+  />
+
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true" width="100%"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true&cache_seconds=1800" 
+    width="100%"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sutradhar&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" 
+    width="40%"
+  />
 </p>
 
 ---
-
-
 
 # 🎮 Technical Expertise
 
-<div align="center">
-<table width="100%" style="table-layout:fixed; border-collapse:collapse;">
+<table width="100%">
 
 <tr>
-<td width="50%" valign="top" style="padding:30px 40px;">
+<td width="50%" valign="top">
 
 ## 🍄 Embedded Firmware
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="30"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="30"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="30"/>
-</p>
-
 **Microcontrollers & SoCs**  
-STM32 (F0/F1/F4/H7) • ESP32 (N8R8/N16R2) • ARM Cortex-M • PIC • MSP430  
+STM32 • ESP32 • ARM Cortex-M • PIC • MSP430  
 
 **RTOS & System Design**  
 FreeRTOS • Task Scheduling • Memory Management • Bootloaders • Secure OTA  
@@ -107,75 +94,57 @@ FreeRTOS • Task Scheduling • Memory Management • Bootloaders • Secure OT
 UART • SPI • I2C • CAN • DMA • RS485  
 
 **Engineering Focus**  
-Low-level driver development • Interrupt handling • Real-time optimization • Power management  
+Low-level drivers • Interrupt handling • Real-time optimization • Power management  
 
 </td>
 
-<td width="50%" valign="top" style="padding:30px 40px;">
+<td width="50%" valign="top">
 
 ## 🐧 Embedded Linux
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="30"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="30"/>
-</p>
 
 **Build Systems & Toolchains**  
 Yocto • Buildroot • Cross Compilation • RootFS Customization  
 
 **Kernel & Drivers**  
-Device Tree • Kernel Configuration • Custom Driver Integration • GPIO/I2C/SPI  
+Device Tree • Kernel Configuration • Custom Driver Integration  
 
 **System Services**  
-systemd • Shell Automation • Process Monitoring • Diagnostics  
+systemd • Shell Automation • Diagnostics  
 
-**Deployment & Containers**  
-Docker • Edge Deployment • Secure System Configuration  
+**Deployment**  
+Docker • Edge Deployment • Secure Configuration  
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top" style="padding:30px 40px;">
+<td width="50%" valign="top">
 
 ## ⚡ PCB & Power Electronics
 
-<p>
-<img src="https://img.icons8.com/color/48/kicad.png" height="30"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="30"/>
-<img src="https://img.icons8.com/color/48/electronics.png" height="30"/>
-</p>
-
-**PCB Design Expertise**  
-2-Layer / 4-Layer / 6-Layer Designs • Ground Planes • Differential Routing  
+**PCB Design**  
+2L / 4L / 6L • Ground Planes • Differential Routing  
 
 **Signal Integrity & EMI**  
-High-speed routing • EMI/EMC mitigation • Noise filtering  
+High-speed routing • EMI mitigation • Noise filtering  
 
 **Power Electronics**  
-SMPS • Buck/Boost Converters • Rectifiers • Thermal considerations  
-
-**Validation & Testing**  
-Oscilloscope debugging • Hardware validation • Reliability testing  
+SMPS • Buck/Boost • Rectifiers • Thermal Design  
 
 </td>
 
-<td width="50%" valign="top" style="padding:30px 40px;">
+<td width="50%" valign="top">
 
 ## ☁️ IoT & Cloud Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb,nodejs" height="30"/>
-</p>
-
 **Communication Layer**  
-MQTT • RS485 • CAN • Secure Telemetry • Modbus  
+MQTT • Modbus • RS485 • Secure Telemetry  
 
 **Cloud Platforms**  
-AWS IoT Core • Azure IoT Hub • Edge Device Management  
+AWS IoT Core • Azure IoT Hub  
 
 **Backend & APIs**  
-REST APIs • Flask • Real-Time Dashboards • Data Logging  
+REST APIs • Flask • Dashboards  
 
 **Data Systems**  
 PostgreSQL • MongoDB • Time-Series Analytics  
@@ -183,49 +152,16 @@ PostgreSQL • MongoDB • Time-Series Analytics
 </td>
 </tr>
 
-<tr>
-<td width="50%" valign="top" style="padding:30px 40px;">
-
-## 🛠 Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab" height="30"/>
-<img src="https://skillicons.dev/icons?i=cmake" height="30"/>
-</p>
-
-**IDE & Tooling**  
-VS Code • STM32CubeIDE • Keil • PlatformIO  
-
-**Version Control & CI/CD**  
-Git • GitHub Actions • GitLab CI • Automated Builds  
-
-**Workflow**  
-Agile Development • Firmware Lifecycle Management • Code Review Practices  
-
-</td>
-
-<td width="50%" valign="top" style="padding:30px 40px;">
-
-## 📊 Data & 3D Modeling
-
-<p>
-<img src="https://skillicons.dev/icons?i=matlab" height="30"/>
-<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="30"/>
-</p>
-
-**Data & Monitoring**  
-Real-Time Dashboards • Time-Series Processing • Sensor Data Analysis  
-
-**Mechanical & Integration**  
-Fusion 360 • 3D Enclosure Design • PCB-Mechanical Co-Design  
-
-**System-Level Thinking**  
-Hardware-Software Integration • Industrial Deployment  
-
-</td>
-</tr>
-
 </table>
-</div>
 
 ---
+
+# 🛠 Development Tools
+
+VS Code • STM32CubeIDE • Keil • PlatformIO  
+Git • GitHub Actions • GitLab CI  
+Fusion 360 • MATLAB  
+
+---
+
+⭐ *Building reliable embedded systems from silicon to cloud.*
