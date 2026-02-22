@@ -68,7 +68,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sutradhar&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" 
+    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sutradhar&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)" 
     width="40%"
   />
 </p>
