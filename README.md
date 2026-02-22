@@ -82,103 +82,155 @@
 
 
 
-
-
----
-
 # 🎮 Technical Expertise
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%">
-</p>
+<div align="center">
+<table width="100%" style="table-layout:fixed; border-collapse:collapse;">
 
-<!-- ================= EMBEDDED ================= -->
+<tr>
+<td width="50%" valign="top" style="padding:30px 40px;">
 
-## 🍄 Embedded Firmware & Microcontrollers
-
-<p>
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="40"/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="30"/>
-  <img src="https://img.icons8.com/color/48/stm32.png" height="30"/>
-</p>
-
-🔹 **Platforms:** STM32 (F0/F1/F4/H7), ESP32, ARM Cortex-M  
-🔹 **Protocols:** UART • SPI • I2C • CAN • RS485  
-🔹 **RTOS:** FreeRTOS • Task Scheduling • ISR Optimization  
-🔹 **Security:** Secure Boot • OTA • Firmware Protection  
-🔹 **Debug Tools:** JTAG • SWD • Logic Analyzer  
-
----
-
-<!-- ================= LINUX ================= -->
-
-## 🐧 Embedded Linux Systems
+## 🍄 Embedded Firmware
 
 <p>
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="40"/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu,raspberrypi" height="30"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="30"/>
+<img src="https://img.icons8.com/color/48/stm32.png" height="30"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="30"/>
 </p>
 
-🔹 **Build Systems:** Yocto • Buildroot • Cross Compilation  
-🔹 **Kernel:** Device Tree • Kernel Config • Driver Debugging  
-🔹 **Services:** systemd • Shell Automation • Diagnostics  
-🔹 **Networking:** SSH • TCP/IP • MQTT Integration  
+**Microcontrollers & SoCs**  
+STM32 (F0/F1/F4/H7) • ESP32 (N8R8/N16R2) • ARM Cortex-M • PIC • MSP430  
 
----
+**RTOS & System Design**  
+FreeRTOS • Task Scheduling • Memory Management • Bootloaders • Secure OTA  
 
-<!-- ================= PCB ================= -->
+**Communication Protocols**  
+UART • SPI • I2C • CAN • DMA • RS485  
 
-## ⚡ PCB, Hardware & Power Electronics
+**Engineering Focus**  
+Low-level driver development • Interrupt handling • Real-time optimization • Power management  
+
+</td>
+
+<td width="50%" valign="top" style="padding:30px 40px;">
+
+## 🐧 Embedded Linux
 
 <p>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"/>
-  <img src="https://img.icons8.com/color/48/kicad.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/oscilloscope.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/electronics.png" height="30"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="30"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="30"/>
 </p>
 
-🔹 **PCB Design:** 2L • 4L • 6L Layout • Ground Planes  
-🔹 **Power Systems:** SMPS • Buck/Boost • Rectifiers  
-🔹 **Compliance:** EMI/EMC Reduction • Hardware Validation  
-🔹 **Testing:** Load Testing • Thermal Profiling  
+**Build Systems & Toolchains**  
+Yocto • Buildroot • Cross Compilation • RootFS Customization  
 
----
+**Kernel & Drivers**  
+Device Tree • Kernel Configuration • Custom Driver Integration • GPIO/I2C/SPI  
 
-<!-- ================= IOT ================= -->
+**System Services**  
+systemd • Shell Automation • Process Monitoring • Diagnostics  
+
+**Deployment & Containers**  
+Docker • Edge Deployment • Secure System Configuration  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" style="padding:30px 40px;">
+
+## ⚡ PCB & Power Electronics
+
+<p>
+<img src="https://img.icons8.com/color/48/kicad.png" height="30"/>
+<img src="https://img.icons8.com/color/48/oscilloscope.png" height="30"/>
+<img src="https://img.icons8.com/color/48/electronics.png" height="30"/>
+</p>
+
+**PCB Design Expertise**  
+2-Layer / 4-Layer / 6-Layer Designs • Ground Planes • Differential Routing  
+
+**Signal Integrity & EMI**  
+High-speed routing • EMI/EMC mitigation • Noise filtering  
+
+**Power Electronics**  
+SMPS • Buck/Boost Converters • Rectifiers • Thermal considerations  
+
+**Validation & Testing**  
+Oscilloscope debugging • Hardware validation • Reliability testing  
+
+</td>
+
+<td width="50%" valign="top" style="padding:30px 40px;">
 
 ## ☁️ IoT & Cloud Systems
 
 <p>
-  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="40"/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb,flask" height="30"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb,nodejs" height="30"/>
 </p>
 
-🔹 **Communication:** MQTT • RS485 • CAN • Secure Telemetry  
-🔹 **Cloud Platforms:** AWS IoT • Azure IoT  
-🔹 **Backend:** Flask • REST APIs • Database Integration  
-🔹 **Dashboards:** Real-Time Monitoring • Time-Series Analytics  
+**Communication Layer**  
+MQTT • RS485 • CAN • Secure Telemetry • Modbus  
 
----
+**Cloud Platforms**  
+AWS IoT Core • Azure IoT Hub • Edge Device Management  
 
-<!-- ================= DEV ================= -->
+**Backend & APIs**  
+REST APIs • Flask • Real-Time Dashboards • Data Logging  
 
-## 🛠 Development Environment
+**Data Systems**  
+PostgreSQL • MongoDB • Time-Series Analytics  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" style="padding:30px 40px;">
+
+## 🛠 Development Tools
 
 <p>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,matlab" height="30"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab" height="30"/>
+<img src="https://skillicons.dev/icons?i=cmake" height="30"/>
 </p>
 
-🔹 **IDE:** VS Code • CubeIDE • Keil • PlatformIO  
-🔹 **Version Control:** Git • GitHub Actions • CI/CD  
-🔹 **Simulation:** MATLAB • Debugging Tools  
-🔹 **Firmware Lifecycle:** Release Management • Deployment  
+**IDE & Tooling**  
+VS Code • STM32CubeIDE • Keil • PlatformIO  
+
+**Version Control & CI/CD**  
+Git • GitHub Actions • GitLab CI • Automated Builds  
+
+**Workflow**  
+Agile Development • Firmware Lifecycle Management • Code Review Practices  
+
+</td>
+
+<td width="50%" valign="top" style="padding:30px 40px;">
+
+## 📊 Data & 3D Modeling
+
+<p>
+<img src="https://skillicons.dev/icons?i=matlab" height="30"/>
+<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="30"/>
+</p>
+
+**Data & Monitoring**  
+Real-Time Dashboards • Time-Series Processing • Sensor Data Analysis  
+
+**Mechanical & Integration**  
+Fusion 360 • 3D Enclosure Design • PCB-Mechanical Co-Design  
+
+**System-Level Thinking**  
+Hardware-Software Integration • Industrial Deployment  
+
+</td>
+</tr>
+
+</table>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%">
-</p>
 
 
 
