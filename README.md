@@ -74,99 +74,116 @@
 
 ---
 
-# 🧠 Technical Expertise
+
+
+
+
+
+
+
+
+
 
 ---
 
-## 🍄 Embedded Firmware ⚙️🧩🛰️
+# 🎮 Technical Expertise
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="40"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="40"/>
-<img src="https://img.icons8.com/color/48/stm32.png" height="40"/>
-<img src="https://img.icons8.com/color/48/electronics.png" height="40"/>
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" width="100%">
 </p>
 
-🔹 STM32 (F0/F1/F4/H7)  
-🔹 ESP32 (N8R8 / N16R2)  
-🔹 ARM Cortex-M  
-🔹 FreeRTOS  
-🔹 Bootloaders  
-🔹 Secure OTA  
-🔹 Interrupt Handling  
-🔹 Low-Level Driver Development  
-🔹 DMA / UART / SPI / I2C / CAN / RS485  
+<!-- ================= EMBEDDED ================= -->
+
+## 🍄 Embedded Firmware & Microcontrollers
+
+<p>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" height="30"/>
+  <img src="https://img.icons8.com/color/48/stm32.png" height="30"/>
+</p>
+
+🔹 **Platforms:** STM32 (F0/F1/F4/H7), ESP32, ARM Cortex-M  
+🔹 **Protocols:** UART • SPI • I2C • CAN • RS485  
+🔹 **RTOS:** FreeRTOS • Task Scheduling • ISR Optimization  
+🔹 **Security:** Secure Boot • OTA • Firmware Protection  
+🔹 **Debug Tools:** JTAG • SWD • Logic Analyzer  
 
 ---
 
-## 🐧 Embedded Linux 🧠💻🔌
+<!-- ================= LINUX ================= -->
+
+## 🐧 Embedded Linux Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu" height="40"/>
-<img src="https://skillicons.dev/icons?i=cmake" height="40"/>
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,ubuntu,raspberrypi" height="30"/>
 </p>
 
-🔹 Yocto  
-🔹 Buildroot  
-🔹 Cross Compilation  
-🔹 Device Tree  
-🔹 Kernel Config  
-🔹 Custom Driver Integration  
-🔹 systemd Services  
-🔹 Edge Deployment  
+🔹 **Build Systems:** Yocto • Buildroot • Cross Compilation  
+🔹 **Kernel:** Device Tree • Kernel Config • Driver Debugging  
+🔹 **Services:** systemd • Shell Automation • Diagnostics  
+🔹 **Networking:** SSH • TCP/IP • MQTT Integration  
 
 ---
 
-## ⚡ PCB & Power Electronics 🔋⚡📡
+<!-- ================= PCB ================= -->
+
+## ⚡ PCB, Hardware & Power Electronics
 
 <p>
-<img src="https://img.icons8.com/color/48/kicad.png" height="40"/>
-<img src="https://img.icons8.com/color/48/oscilloscope.png" height="40"/>
-<img src="https://img.icons8.com/color/48/electronics.png" height="40"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"/>
+  <img src="https://img.icons8.com/color/48/kicad.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/oscilloscope.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/electronics.png" height="30"/>
 </p>
 
-🔹 2L / 4L / 6L PCB Design  
-🔹 Ground Plane Optimization  
-🔹 Differential Pair Routing  
-🔹 EMI / EMC Mitigation  
-🔹 SMPS Design  
-🔹 Buck / Boost Converters  
-🔹 12-Pulse Rectifier Systems  
-🔹 Thermal Analysis  
+🔹 **PCB Design:** 2L • 4L • 6L Layout • Ground Planes  
+🔹 **Power Systems:** SMPS • Buck/Boost • Rectifiers  
+🔹 **Compliance:** EMI/EMC Reduction • Hardware Validation  
+🔹 **Testing:** Load Testing • Thermal Profiling  
 
 ---
 
-## ☁️ IoT & Cloud Systems 🌍📡🔐
+<!-- ================= IOT ================= -->
+
+## ☁️ IoT & Cloud Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,nodejs,react,mongodb,postgres" height="40"/>
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,react,postgres,mongodb,flask" height="30"/>
 </p>
 
-🔹 AWS IoT Core  
-🔹 Azure IoT Hub  
-🔹 MQTT / Modbus  
-🔹 Secure Telemetry  
-🔹 REST APIs  
-🔹 Real-Time Dashboards  
-🔹 Time-Series Analytics  
+🔹 **Communication:** MQTT • RS485 • CAN • Secure Telemetry  
+🔹 **Cloud Platforms:** AWS IoT • Azure IoT  
+🔹 **Backend:** Flask • REST APIs • Database Integration  
+🔹 **Dashboards:** Real-Time Monitoring • Time-Series Analytics  
 
 ---
 
-## 🛠 Development & Tools 🧪🧰🚀
+<!-- ================= DEV ================= -->
+
+## 🛠 Development Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab" height="40"/>
-<img src="https://skillicons.dev/icons?i=matlab" height="40"/>
-<img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="40"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,matlab" height="30"/>
 </p>
 
-🔹 STM32CubeIDE  
-🔹 Keil  
-🔹 PlatformIO  
-🔹 GitHub Actions  
-🔹 Fusion 360  
-🔹 Hardware Debugging  
-🔹 Oscilloscope Analysis  
+🔹 **IDE:** VS Code • CubeIDE • Keil • PlatformIO  
+🔹 **Version Control:** Git • GitHub Actions • CI/CD  
+🔹 **Simulation:** MATLAB • Debugging Tools  
+🔹 **Firmware Lifecycle:** Release Management • Deployment  
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" width="100%">
+</p>
+
+
+
+
+
 
 ---
 
