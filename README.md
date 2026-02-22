@@ -54,9 +54,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true&cache_seconds=1800" width="100%"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sutradhar&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="40%"/>
-</p>
+
+
+
+
 
 ---
 
