@@ -40,24 +40,21 @@
 
 ---
 
+# GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=amit-sutradhar&theme=github-dark&hide_border=true&cache_seconds=1800" height="165"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true&cache_seconds=1800" width="100%"/>
+</p>
 
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-| 🛠️ Stats Overview | 🔥 Contribution Streak |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="175" /> | <img src="https://streak-stats.demolab.com?user=amit-sutradhar&theme=github-dark&hide_border=true" height="175" /> |
-
-| 💻 Top Languages Breakdown |
-| :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sutradhar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="400" /> |
-
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
-</div>
 
 
 
