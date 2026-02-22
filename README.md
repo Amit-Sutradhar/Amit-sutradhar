@@ -66,8 +66,7 @@
 
 
 
-
-
+https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif
 
 
 
@@ -78,7 +77,8 @@
 # 🎮 Level Up Mode Activated
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ2dXc0em5ud2I0em5ud2I0em5ud2I0em5ud2I0em5ud2I0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fAnEC88LccN7a/giphy.gif
+" width="250"/>
 </p>
 
 <p align="center">
