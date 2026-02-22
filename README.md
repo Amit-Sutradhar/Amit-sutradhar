@@ -64,19 +64,10 @@
 
 
 
-
-
-
-
-
-
-
----
-
 # 🎮 Level Up Mode Activated
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRjMDNqaWg1N21zYnlzM2Yxb29iYnZxaGJneWNiaGx6Y3NyMGQ4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t5iD9sS7qUcq4/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -84,9 +75,6 @@
   <img src="https://img.shields.io/badge/XP-RealTime%20Systems-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PowerUp-IoT%20%7C%20Firmware%20%7C%20Hardware-yellow?style=for-the-badge" />
 </p>
-
----
-
 
 
 
