@@ -70,6 +70,40 @@
 
 
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amit-sutradhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" 
+    height="170"
+  />
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=amit-sutradhar&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sutradhar&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sutradhar&theme=tokyo-night&hide_border=true" 
+    width="100%"
+  />
+</p>
+
+
+
+
+
+
+
 
 
 ---
